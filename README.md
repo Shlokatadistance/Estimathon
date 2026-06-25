@@ -1,0 +1,3 @@
+## Core Idea
+
+Think of a composite basket, like VT.US ( Vanguard World ETF ), which has constituents from across the world with disparate trading hours. There are a couple of different ways to price a basket like this, but one interesting idea I thought of is to to almost treat this basket like a moving vehicle, and hence using a Kalman filter to somewhat 'fill' the prices of constituents that do not trade when the rest of the constituents in the baskets do. 
