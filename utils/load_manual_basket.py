@@ -5,7 +5,7 @@ from basket.basket import ETF,BasketConstituent,BasketMetadata
 
 
 
-def load_manual_basket_json(path: str) -> Basket:
+def load_manual_basket_json(path: str) -> ETF:
     """
     Load a hand-written basket file for quick experiments.
     """
