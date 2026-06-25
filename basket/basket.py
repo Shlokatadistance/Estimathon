@@ -1,16 +1,41 @@
-from __future__ import annotations
-
 from dataclasses import dataclass
 from datetime import datetime
 
-from kalman import StockKalmanFilter
+from kalman.kalman import StockKalmanFilter
+
+# Currently using a static currency conversion dictionary
+# A more nuanced solution is to use a conversion matrix that can account
+# for small fx rates ( pence , cents ), and is dynamically refreshed. But for 
+# something on a smaller scale, this works just fine.
+CURRENCY_RATES = {
+    "USD/USD": "1",
+    "EUR/USD": "1.08",
+    "GBP/USD": "1.27",
+    "JPY/USD": "0.0067",
+    "INR/USD": "0.012",
+    "CNY/USD": "0.14",
+    "AUD/USD": "0.66",
+    "CAD/USD": "0.73",
+    "CHF/USD": "1.13",
+    "HKD/USD": "0.128",
+    "SGD/USD": "0.75",
+    "KRW/USD": "0.00073",
+    "BRL/USD": "0.18",
+    "RUB/USD": "0.011",
+    "MXN/USD": "0.05",
+    "ZAR/USD": "0.055",
+}
 
 
 @dataclass(frozen=True)
 class BasketConstituent:
+    """
+    Represents the individual constituent of a basket
+    """
     symbol: str
     quantity: float
-    fx_rate: float = 1.0
+    currency: str
+
 
 
 @dataclass(frozen=True)
@@ -70,7 +95,7 @@ class HistoricalBasketPricer:
         basket_price = sum(
             constituent.quantity
             * estimated_prices[constituent.symbol]
-            * constituent.fx_rate
+            * CURRENCY_RATES.get(f"{constituent.symbol}/USD")
             for constituent in self.constituents
         )
 
