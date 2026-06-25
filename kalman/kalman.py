@@ -5,6 +5,7 @@ from dataclasses import dataclass
 class StockKalmanFilter:
     """
     Simple Kalman filter for smoothing and predicting a stock price series.
+    Doesnt change too much from its Physics counterpart
 
     State:
         price = current price estimate
@@ -94,18 +95,19 @@ class StockKalmanFilter:
         return predicted_price, filtered_price
 
 
-if __name__ == "__main__":
-    minute_prices = [100.0, 100.3, 100.1, 100.8, 101.2, 101.0, 101.6]
-    kf = StockKalmanFilter(
-        initial_price=minute_prices[0],
-        price_noise=0.25,
-        volatility=0.02,
-    )
+# Simple run
+# if __name__ == "__main__":
+#     minute_prices = [100.0, 100.3, 100.1, 100.8, 101.2, 101.0, 101.6]
+#     kf = StockKalmanFilter(
+#         initial_price=minute_prices[0],
+#         price_noise=0.25,
+#         volatility=0.02,
+#     )
 
-    for price in minute_prices[1:]:
-        predicted, filtered = kf.step(price)
-        print(
-            f"live={price:.2f}, "
-            f"predicted={predicted:.2f}, "
-            f"filtered={filtered:.2f}"
-        )
+#     for price in minute_prices[1:]:
+#         predicted, filtered = kf.step(price)
+#         print(
+#             f"live={price:.2f}, "
+#             f"predicted={predicted:.2f}, "
+#             f"filtered={filtered:.2f}"
+#         )
