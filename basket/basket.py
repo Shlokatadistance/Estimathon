@@ -36,6 +36,18 @@ class BasketConstituent:
     quantity: float
     currency: str
 
+@dataclass
+class BasketMetadata:
+    basket_name:str
+    basket_type:str
+    source:str
+    creation_size:int
+    cash:int
+
+@dataclass
+class ETF:
+    metadata: BasketMetadata
+    constituents: list[BasketConstituent]
 
 
 @dataclass(frozen=True)

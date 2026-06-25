@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "basket_name": "MANUAL_TEST",
+    "basket_type": "PRICING",
+    "source": "manual",
+    "creation_size": "1",
+    "cash_position": "0"
+  },
+  "constituents": [
+    {
+      "symbol": "AAPL US Equity",
+      "name": "Apple Inc",
+      "shares": "2",
+      "currency": "USD",
+      "exchange": "US",
+      "close_price": "195.00",
+      "close_price_date": "2026-06-17",
+      "fx_rate_to_base": "1"
+    },
+    {
+      "symbol": "7203 JP Equity",
+      "name": "Toyota Motor Corp",
+      "shares": "10",
+      "currency": "JPY",
+      "exchange": "JP",
+      "close_price": "3000.00",
+      "close_price_date": "2026-06-18",
+      "fx_rate_to_base": "0.0068"
+    }
+  ]
+}
