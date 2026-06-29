@@ -45,11 +45,16 @@ class FetchMarketData:
     def __init__(self):
         self.query_client = DatabentoClient().historical_client
 
-    def stream_single_price(self, symbol: str, start: str, end: str) -> pd.DataFrame:
+    def dump_single_price(self, symbol: str, start: str = None, end: str = None) -> None:
         """
         Going with a more default type settings right now.
         2 months of historical data ( January to Februrary 2026 )
         Can pass the symbol
+
+        The way I currently trigger the script is to simply use data csv's,
+        so I am thinking of dumping the data to a csv file for now.
+
+        #TODO: Add support for live data streaming
 
         """
         data = self.query_client.timeseries.get_range(
@@ -60,4 +65,5 @@ class FetchMarketData:
             end="2026-05-31T00:00:00",
         )
 
-        data.to_df()
+        data = data.to_df()
+        data.to_csv(f"data/{symbol}_ohlcv_1m.csv", index=False)
