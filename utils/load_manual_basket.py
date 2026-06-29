@@ -25,7 +25,7 @@ def get_basket_metadata(data:dict[str,Any]):
         basket_type=data['basket_type'],
         source=data['source'],
         creation_size=int(data['creation_size']),
-        cash=int(data['cash'])
+        cash=float(data['cash_position'])
         )
 
 def get_basket_constituents(data:dict[str,Any]):
@@ -33,5 +33,11 @@ def get_basket_constituents(data:dict[str,Any]):
     if not data:
         return
     for constituent in data:
-        consituents.append(BasketConstituent(symbol=constituent['symbol'],quantity=constituent['quantity'],currency=constituent['currenct']))
+        consituents.append(BasketConstituent(
+            symbol=constituent['symbol'],
+            quantity=float(constituent['shares']),
+            currency=constituent['currency'],
+            close_price=float(constituent['close_price']),
+            fx_rate_to_base=float(constituent['fx_rate_to_base']),
+        ))
     return consituents
