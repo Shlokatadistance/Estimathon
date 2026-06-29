@@ -8,20 +8,25 @@ from kalman.kalman import StockKalmanFilter
 class BasketConstituent:
     """
     Represents the individual constituent of a basket
+    Previously handle fx conversion separately, now provided in
+    fx_rate_to_base.
     """
+
     symbol: str
     quantity: float
     currency: str
     close_price: float
     fx_rate_to_base: float = 1.0
 
+
 @dataclass
 class BasketMetadata:
-    basket_name:str
-    basket_type:str
-    source:str
-    creation_size:int
-    cash:float
+    basket_name: str
+    basket_type: str
+    source: str
+    creation_size: int
+    cash: float
+
 
 @dataclass
 class ETF:
@@ -77,7 +82,7 @@ class HistoricalBasketPricer:
         for constituent in self.constituents:
             symbol = constituent.symbol
             price_filter = self.filters[symbol]
-            # Check which consitutent is actually live and 
+            # Check which consitutent is actually live and
             # decide whether to use the live price or the predicted price
             if symbol in live_prices:
                 _, estimated_price = price_filter.step(live_prices[symbol])
@@ -86,12 +91,15 @@ class HistoricalBasketPricer:
 
             estimated_prices[symbol] = estimated_price
 
-        basket_price = sum(
-            constituent.quantity
-            * estimated_prices[constituent.symbol]
-            * constituent.fx_rate_to_base
-            for constituent in self.constituents
-        ) + self.cash
+        basket_price = (
+            sum(
+                constituent.quantity
+                * estimated_prices[constituent.symbol]
+                * constituent.fx_rate_to_base
+                for constituent in self.constituents
+            )
+            + self.cash
+        )
 
         return BasketSnapshot(
             timestamp=timestamp,
@@ -100,7 +108,9 @@ class HistoricalBasketPricer:
             live_symbols=live_symbols,
         )
 
-    def run(self, prices_by_time: dict[datetime, dict[str, float]]) -> list[BasketSnapshot]:
+    def run(
+        self, prices_by_time: dict[datetime, dict[str, float]]
+    ) -> list[BasketSnapshot]:
         snapshots: list[BasketSnapshot] = []
 
         for timestamp in sorted(prices_by_time):
