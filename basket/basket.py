@@ -3,29 +3,6 @@ from datetime import datetime
 
 from kalman.kalman import StockKalmanFilter
 
-# Currently using a static currency conversion dictionary
-# A more nuanced solution is to use a conversion matrix that can account
-# for small fx rates ( pence , cents ), and is dynamically refreshed. But for 
-# something on a smaller scale, this works just fine.
-CURRENCY_RATES = {
-    "USD/USD": "1",
-    "EUR/USD": "1.08",
-    "GBP/USD": "1.27",
-    "JPY/USD": "0.0067",
-    "INR/USD": "0.012",
-    "CNY/USD": "0.14",
-    "AUD/USD": "0.66",
-    "CAD/USD": "0.73",
-    "CHF/USD": "1.13",
-    "HKD/USD": "0.128",
-    "SGD/USD": "0.75",
-    "KRW/USD": "0.00073",
-    "BRL/USD": "0.18",
-    "RUB/USD": "0.011",
-    "MXN/USD": "0.05",
-    "ZAR/USD": "0.055",
-}
-
 
 @dataclass(frozen=True)
 class BasketConstituent:
@@ -35,6 +12,8 @@ class BasketConstituent:
     symbol: str
     quantity: float
     currency: str
+    close_price: float
+    fx_rate_to_base: float = 1.0
 
 @dataclass
 class BasketMetadata:
@@ -42,7 +21,7 @@ class BasketMetadata:
     basket_type:str
     source:str
     creation_size:int
-    cash:int
+    cash:float
 
 @dataclass
 class ETF:
@@ -72,10 +51,12 @@ class HistoricalBasketPricer:
         self,
         constituents: list[BasketConstituent],
         initial_prices: dict[str, float],
+        cash: float = 0.0,
         price_noise: float = 1.0,
         volatility: float = 0.05,
     ) -> None:
         self.constituents = constituents
+        self.cash = cash
         self.filters = {
             constituent.symbol: StockKalmanFilter(
                 initial_price=initial_prices[constituent.symbol],
@@ -96,7 +77,8 @@ class HistoricalBasketPricer:
         for constituent in self.constituents:
             symbol = constituent.symbol
             price_filter = self.filters[symbol]
-
+            # Check which consitutent is actually live and 
+            # decide whether to use the live price or the predicted price
             if symbol in live_prices:
                 _, estimated_price = price_filter.step(live_prices[symbol])
             else:
@@ -107,9 +89,9 @@ class HistoricalBasketPricer:
         basket_price = sum(
             constituent.quantity
             * estimated_prices[constituent.symbol]
-            * CURRENCY_RATES.get(f"{constituent.symbol}/USD")
+            * constituent.fx_rate_to_base
             for constituent in self.constituents
-        )
+        ) + self.cash
 
         return BasketSnapshot(
             timestamp=timestamp,
