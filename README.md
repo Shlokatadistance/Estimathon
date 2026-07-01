@@ -32,7 +32,7 @@ The basket definition defaults to `manual_basket.json`.
 
 ### Setup
 
-For anyone curious, nav.png shows the results for the BNY basket. The test setup is 
+The test setup is -
 1. Hourly constituent data, ordered in time as constituents start to trade. Asian tickers are at the top, European in the middle, and US at the bottom.
 2. For constituents which are not trading, use the .predict() method to predict their price. For the rest, use the actual price.
 3. Generate a kalman NAV and compare it to the synthetic NAV of the basket. The synthetic NAV is calculated from the formula 
