@@ -44,6 +44,8 @@ For a constituent that is live, use the actual price. For a constituent that is 
 
 ### Observations
 
+Thought of sharing a bit more context on the results:
+
 I ran this code for a single basket, BNYM Concentrated International ETF ( got the excel file and then generated the JSON file from it ). I used yfinance data for the start, because I wanted to visualize the results first before actually paying for a live stream. The results are actually quite interesting
 
 
