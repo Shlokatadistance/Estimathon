@@ -1,0 +1,200 @@
+{
+  "metadata": {
+    "basket_name": "BNYM Concentrated International ETF",
+    "basket_type": "PRICING",
+    "source": "xls",
+    "creation_size": "1",
+    "cash_position": "3417210.56"
+  },
+  "constituents": [
+    {
+      "symbol": "TSM",
+      "shares": "22392.0",
+      "currency": "USD",
+      "close_price": "432.35",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ASML",
+      "shares": "5239.0",
+      "currency": "USD",
+      "close_price": "1797.412418",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ATD",
+      "shares": "103930.0",
+      "currency": "USD",
+      "close_price": "65.890899",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CPG",
+      "shares": "184525.0",
+      "currency": "USD",
+      "close_price": "32.74",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TTE",
+      "shares": "74843.0",
+      "currency": "USD",
+      "close_price": "77.855223",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "1299",
+      "shares": "640914.0",
+      "currency": "USD",
+      "close_price": "9.028482",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AI",
+      "shares": "28431.0",
+      "currency": "USD",
+      "close_price": "196.870302",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MRK",
+      "shares": "33225.0",
+      "currency": "USD",
+      "close_price": "165.880826",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ROG",
+      "shares": "12824.0",
+      "currency": "USD",
+      "close_price": "415.045395",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AMS",
+      "shares": "88985.0",
+      "currency": "USD",
+      "close_price": "59.38226",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "4063",
+      "shares": "119300.0",
+      "currency": "USD",
+      "close_price": "42.25265",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "7741",
+      "shares": "30000.0",
+      "currency": "USD",
+      "close_price": "158.099713",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SGSN",
+      "shares": "40998.0",
+      "currency": "USD",
+      "close_price": "115.545673",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "OR",
+      "shares": "10437.0",
+      "currency": "USD",
+      "close_price": "441.893307",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "6861",
+      "shares": "9400.0",
+      "currency": "USD",
+      "close_price": "476.617315",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SIKA",
+      "shares": "20140.0",
+      "currency": "USD",
+      "close_price": "207.028596",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LONN",
+      "shares": "6280.0",
+      "currency": "USD",
+      "close_price": "660.366871",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ALC",
+      "shares": "58300.0",
+      "currency": "USD",
+      "close_price": "68.186029",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CLAR",
+      "shares": "2000000.0",
+      "currency": "USD",
+      "close_price": "1.962375",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MC",
+      "shares": "6797.0",
+      "currency": "USD",
+      "close_price": "564.609813",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SAP",
+      "shares": "22940.0",
+      "currency": "USD",
+      "close_price": "153.910983",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EXPN",
+      "shares": "96925.0",
+      "currency": "USD",
+      "close_price": "33.261618",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ADS",
+      "shares": "15000.0",
+      "currency": "USD",
+      "close_price": "206.938181",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "UMG",
+      "shares": "142865.0",
+      "currency": "USD",
+      "close_price": "20.904515",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "6367",
+      "shares": "20000.0",
+      "currency": "USD",
+      "close_price": "148.672457",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "COLOB",
+      "shares": "50920.0",
+      "currency": "USD",
+      "close_price": "58.188079",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "KNEBV",
+      "shares": "32900.0",
+      "currency": "USD",
+      "close_price": "56.899458",
+      "fx_rate_to_base": "1.0"
+    }
+  ]
+}

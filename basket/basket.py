@@ -79,6 +79,10 @@ class HistoricalBasketPricer:
         estimated_prices: dict[str, float] = {}
         live_symbols = set(live_prices)
 
+        # Core price prediction logic
+        # Calculate the price or take the smoothened price if live price is available
+        # Use this data to calculate the basket price or the Kalman NAV
+        
         for constituent in self.constituents:
             symbol = constituent.symbol
             price_filter = self.filters[symbol]

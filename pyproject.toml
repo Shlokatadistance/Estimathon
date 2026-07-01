@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "estimathon"
+version = "0.1.0"
+description = "Kalman-filter basket pricer for international ETF constituents"
+requires-python = ">=3.12"
+dependencies = [
+    "databento>=0.74.1",
+    "matplotlib>=3.10",
+    "numpy>=2.4",
+    "pandas>=3.0",
+    "xlrd>=2.0",
+    "yfinance>=1.5",
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["basket*", "kalman*", "utils*"]

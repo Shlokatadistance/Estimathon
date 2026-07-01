@@ -1,4 +1,3 @@
-import pathlib
 import json
 from typing import Any
 from basket.basket import ETF,BasketConstituent,BasketMetadata
