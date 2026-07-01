@@ -53,14 +53,13 @@ I ran this code for a single basket, BNYM Concentrated International ETF ( got t
 
 
 Small table I generated to calculate the error 
-```
+
 | Metric | Value |
 |---|---|
 | Mean Absolute Error | 65,231,443 |
 | Mean Absolute Percentage Error | 2.1791% |
 | Root Mean Square Error | 135,178,424 |
 | N timestamps | 30 |
-```
 
 #TODO
 The Asian hour spike drags up the average significantly, perhaps I need to modify the skew the starting error and variance to be more conservative.
