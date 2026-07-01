@@ -52,7 +52,7 @@ I ran this code for a single basket, BNYM Concentrated International ETF ( got t
 - Once more markets start to open and the filter is exposed to more constituent data, the predictions become more accurate. I would compare this to a linear regression approach, where the first predictions would be off as well, but would not improve as much as the Kalman filter once more data is available. ( Though I should put this to the test )
 
 
-Small table I generated to calculate the error 
+Small table I generated to calculate the error ( because of the absence of correct FX rates, the numbers are a bit off i.e. mean absolute error is ~ 65 million across 30 timestamps. This basket would properly bankrupt you if you tried to trade it )
 
 | Metric | Value |
 |---|---|
