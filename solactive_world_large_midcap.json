@@ -1,0 +1,8739 @@
+{
+  "metadata": {
+    "basket_name": "SWDA",
+    "basket_type": "PRICING",
+    "creation_size": "100",
+    "cash_position": "1000"
+  },
+  "constituents": [
+    {
+      "symbol": "AAPL",
+      "shares": "24606300.00",
+      "currency": "USD",
+      "close_price": "344.17",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NVDA",
+      "shares": "38516127.00",
+      "currency": "USD",
+      "close_price": "181.60",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MSFT",
+      "shares": "11822898.00",
+      "currency": "USD",
+      "close_price": "535.93",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AMZN",
+      "shares": "16219674.00",
+      "currency": "USD",
+      "close_price": "260.21",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "GOOGL",
+      "shares": "9830067.00",
+      "currency": "USD",
+      "close_price": "282.57",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "META",
+      "shares": "3681403.00",
+      "currency": "USD",
+      "close_price": "605.08",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AVGO",
+      "shares": "7572046.00",
+      "currency": "USD",
+      "close_price": "291.53",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "GOOG",
+      "shares": "7831704.00",
+      "currency": "USD",
+      "close_price": "281.74",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LLY",
+      "shares": "1341422.00",
+      "currency": "USD",
+      "close_price": "1364.73",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TSLA",
+      "shares": "4793099.00",
+      "currency": "USD",
+      "close_price": "343.69",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "JPM",
+      "shares": "4470554.00",
+      "currency": "USD",
+      "close_price": "337.34",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BRK B",
+      "shares": "2362809.00",
+      "currency": "USD",
+      "close_price": "572.33",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MU",
+      "shares": "1892121.00",
+      "currency": "USD",
+      "close_price": "656.39",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "V",
+      "shares": "2780605.00",
+      "currency": "USD",
+      "close_price": "422.59",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "XOM",
+      "shares": "6964564.00",
+      "currency": "USD",
+      "close_price": "165.30",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AMD",
+      "shares": "2723084.00",
+      "currency": "USD",
+      "close_price": "404.40",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "JNJ",
+      "shares": "4023026.00",
+      "currency": "USD",
+      "close_price": "272.32",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "WMT",
+      "shares": "7324052.00",
+      "currency": "USD",
+      "close_price": "127.72",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ASML",
+      "shares": "648311.00",
+      "currency": "EUR",
+      "close_price": "1403.37",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MA",
+      "shares": "1367619.00",
+      "currency": "USD",
+      "close_price": "655.92",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ABBV",
+      "shares": "2954361.00",
+      "currency": "USD",
+      "close_price": "288.24",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "COST",
+      "shares": "741017.00",
+      "currency": "USD",
+      "close_price": "1065.59",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CVX",
+      "shares": "3082998.00",
+      "currency": "USD",
+      "close_price": "212.93",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PG",
+      "shares": "3881929.00",
+      "currency": "USD",
+      "close_price": "167.10",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CSCO",
+      "shares": "6597643.00",
+      "currency": "USD",
+      "close_price": "95.72",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "KO",
+      "shares": "6470564.00",
+      "currency": "USD",
+      "close_price": "95.73",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MRK",
+      "shares": "4129524.00",
+      "currency": "USD",
+      "close_price": "146.94",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "UNH",
+      "shares": "1516048.00",
+      "currency": "USD",
+      "close_price": "395.72",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "HD",
+      "shares": "1663698.00",
+      "currency": "USD",
+      "close_price": "349.94",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ROP",
+      "shares": "1176418.00",
+      "currency": "CHF",
+      "close_price": "480.88",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PLTR",
+      "shares": "3637753.00",
+      "currency": "USD",
+      "close_price": "154.99",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "GE",
+      "shares": "1733866.00",
+      "currency": "USD",
+      "close_price": "314.73",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BAC",
+      "shares": "10876054.00",
+      "currency": "USD",
+      "close_price": "49.76",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PM",
+      "shares": "2603337.00",
+      "currency": "USD",
+      "close_price": "201.50",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NOVN",
+      "shares": "3059070.00",
+      "currency": "CHF",
+      "close_price": "164.66",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "HSBA",
+      "shares": "28405908.00",
+      "currency": "GBP",
+      "close_price": "17.62",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SHEL",
+      "shares": "9703652.00",
+      "currency": "GBP",
+      "close_price": "51.00",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "RY",
+      "shares": "2342487.00",
+      "currency": "CAD",
+      "close_price": "204.27",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AZN",
+      "shares": "2525910.00",
+      "currency": "GBP",
+      "close_price": "189.24",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NFLX",
+      "shares": "7040951.00",
+      "currency": "USD",
+      "close_price": "65.56",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NESN",
+      "shares": "4271575.00",
+      "currency": "CHF",
+      "close_price": "107.09",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "WFC",
+      "shares": "5155589.00",
+      "currency": "USD",
+      "close_price": "84.80",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "RTX",
+      "shares": "2248320.00",
+      "currency": "USD",
+      "close_price": "191.88",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CAT",
+      "shares": "777478.00",
+      "currency": "USD",
+      "close_price": "553.64",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "GS",
+      "shares": "492595.00",
+      "currency": "USD",
+      "close_price": "868.95",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PANW",
+      "shares": "1354685.00",
+      "currency": "USD",
+      "close_price": "314.67",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AMAT",
+      "shares": "1325597.00",
+      "currency": "USD",
+      "close_price": "319.25",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TXN",
+      "shares": "1520763.00",
+      "currency": "USD",
+      "close_price": "278.15",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TMO",
+      "shares": "623382.00",
+      "currency": "USD",
+      "close_price": "676.94",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SAP",
+      "shares": "1732947.00",
+      "currency": "EUR",
+      "close_price": "242.22",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AMGN",
+      "shares": "900882.00",
+      "currency": "USD",
+      "close_price": "460.28",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LIN",
+      "shares": "780276.00",
+      "currency": "USD",
+      "close_price": "521.23",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "8306",
+      "shares": "17875736.00",
+      "currency": "JPY",
+      "close_price": "21.85",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "IBM",
+      "shares": "1566925.00",
+      "currency": "USD",
+      "close_price": "247.11",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LRCX",
+      "shares": "2085806.00",
+      "currency": "USD",
+      "close_price": "185.20",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "INTC",
+      "shares": "7389908.00",
+      "currency": "USD",
+      "close_price": "52.25",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SIE",
+      "shares": "1224142.00",
+      "currency": "EUR",
+      "close_price": "306.78",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MS",
+      "shares": "1967778.00",
+      "currency": "USD",
+      "close_price": "182.44",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CRWD",
+      "shares": "1640151.00",
+      "currency": "USD",
+      "close_price": "217.20",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "GILD",
+      "shares": "2088896.00",
+      "currency": "USD",
+      "close_price": "167.57",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BHP",
+      "shares": "8512572.00",
+      "currency": "AUD",
+      "close_price": "41.06",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "GEV",
+      "shares": "451263.00",
+      "currency": "USD",
+      "close_price": "770.51",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "7203",
+      "shares": "15498600.00",
+      "currency": "JPY",
+      "close_price": "22.38",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DIS",
+      "shares": "2953399.00",
+      "currency": "USD",
+      "close_price": "117.22",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TD",
+      "shares": "2774534.00",
+      "currency": "CAD",
+      "close_price": "123.30",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "C",
+      "shares": "2845356.00",
+      "currency": "USD",
+      "close_price": "118.45",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ABT",
+      "shares": "2922919.00",
+      "currency": "USD",
+      "close_price": "113.60",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ORCL",
+      "shares": "2882594.00",
+      "currency": "USD",
+      "close_price": "115.16",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MCD",
+      "shares": "1186660.00",
+      "currency": "USD",
+      "close_price": "278.04",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ALV",
+      "shares": "631763.00",
+      "currency": "EUR",
+      "close_price": "522.17",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PEP",
+      "shares": "2284654.00",
+      "currency": "USD",
+      "close_price": "142.71",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CBA",
+      "shares": "2797336.00",
+      "currency": "AUD",
+      "close_price": "115.73",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "VZ",
+      "shares": "6872888.00",
+      "currency": "USD",
+      "close_price": "46.12",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NEE",
+      "shares": "3483427.00",
+      "currency": "USD",
+      "close_price": "88.25",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TTE",
+      "shares": "3322149.00",
+      "currency": "EUR",
+      "close_price": "90.60",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CRM",
+      "shares": "1332438.00",
+      "currency": "USD",
+      "close_price": "222.41",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ADI",
+      "shares": "818686.00",
+      "currency": "USD",
+      "close_price": "361.01",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "APH",
+      "shares": "4104147.00",
+      "currency": "USD",
+      "close_price": "71.64",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SAN",
+      "shares": "24122524.00",
+      "currency": "EUR",
+      "close_price": "12.15",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "UNP",
+      "shares": "979345.00",
+      "currency": "USD",
+      "close_price": "297.95",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "WELL",
+      "shares": "1176879.00",
+      "currency": "USD",
+      "close_price": "245.43",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BLK",
+      "shares": "246536.00",
+      "currency": "USD",
+      "close_price": "1170.67",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AXP",
+      "shares": "887750.00",
+      "currency": "USD",
+      "close_price": "324.97",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SHOP",
+      "shares": "1999725.00",
+      "currency": "CAD",
+      "close_price": "143.79",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PFE",
+      "shares": "9581435.00",
+      "currency": "USD",
+      "close_price": "29.88",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ANET",
+      "shares": "1795849.00",
+      "currency": "USD",
+      "close_price": "159.16",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "KLAC",
+      "shares": "2169178.00",
+      "currency": "USD",
+      "close_price": "129.80",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "QCOM",
+      "shares": "1785209.00",
+      "currency": "USD",
+      "close_price": "156.75",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ISRG",
+      "shares": "596011.00",
+      "currency": "USD",
+      "close_price": "468.52",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "COP",
+      "shares": "2029788.00",
+      "currency": "USD",
+      "close_price": "135.46",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DE",
+      "shares": "407035.00",
+      "currency": "USD",
+      "close_price": "663.31",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "6758",
+      "shares": "10028890.00",
+      "currency": "JPY",
+      "close_price": "26.67",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ACN",
+      "shares": "1004265.00",
+      "currency": "USD",
+      "close_price": "265.16",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "IBE",
+      "shares": "10355392.00",
+      "currency": "EUR",
+      "close_price": "25.56",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "UBSG",
+      "shares": "5340063.00",
+      "currency": "CHF",
+      "close_price": "48.97",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "6098",
+      "shares": "2260400.00",
+      "currency": "JPY",
+      "close_price": "114.08",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "T",
+      "shares": "11725920.00",
+      "currency": "USD",
+      "close_price": "21.82",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SCHW",
+      "shares": "2758398.00",
+      "currency": "USD",
+      "close_price": "92.58",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TJX",
+      "shares": "1815102.00",
+      "currency": "USD",
+      "close_price": "138.59",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "8316",
+      "shares": "12199868.00",
+      "currency": "JPY",
+      "close_price": "20.21",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ULVR",
+      "shares": "3632083.00",
+      "currency": "GBP",
+      "close_price": "67.81",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SPGI",
+      "shares": "516297.00",
+      "currency": "USD",
+      "close_price": "472.41",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BBVA",
+      "shares": "9257582.00",
+      "currency": "EUR",
+      "close_price": "25.71",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DHR",
+      "shares": "1042609.00",
+      "currency": "USD",
+      "close_price": "226.34",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SU",
+      "shares": "920876.00",
+      "currency": "EUR",
+      "close_price": "255.81",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PGR",
+      "shares": "988585.00",
+      "currency": "USD",
+      "close_price": "233.18",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "RR.",
+      "shares": "13758751.00",
+      "currency": "GBP",
+      "close_price": "16.71",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "6857",
+      "shares": "1228700.00",
+      "currency": "JPY",
+      "close_price": "186.77",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "VRTX",
+      "shares": "415908.00",
+      "currency": "USD",
+      "close_price": "542.50",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MDT",
+      "shares": "2151658.00",
+      "currency": "USD",
+      "close_price": "104.84",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "6501",
+      "shares": "7413180.00",
+      "currency": "JPY",
+      "close_price": "30.23",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AIR",
+      "shares": "995977.00",
+      "currency": "EUR",
+      "close_price": "223.28",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AI",
+      "shares": "1034721.00",
+      "currency": "EUR",
+      "close_price": "213.00",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NOVO B",
+      "shares": "5379452.00",
+      "currency": "DKK",
+      "close_price": "40.74",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BKNG",
+      "shares": "1298289.00",
+      "currency": "USD",
+      "close_price": "168.72",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BMY",
+      "shares": "3445200.00",
+      "currency": "USD",
+      "close_price": "63.13",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CB",
+      "shares": "584069.00",
+      "currency": "USD",
+      "close_price": "371.63",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ABBN",
+      "shares": "2609052.00",
+      "currency": "CHF",
+      "close_price": "82.87",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BA",
+      "shares": "1247069.00",
+      "currency": "USD",
+      "close_price": "172.50",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MO",
+      "shares": "2769660.00",
+      "currency": "USD",
+      "close_price": "77.58",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NEM",
+      "shares": "1792745.00",
+      "currency": "USD",
+      "close_price": "119.71",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ETN",
+      "shares": "653996.00",
+      "currency": "USD",
+      "close_price": "327.02",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LOW",
+      "shares": "939772.00",
+      "currency": "USD",
+      "close_price": "227.24",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BATS",
+      "shares": "3354068.00",
+      "currency": "GBP",
+      "close_price": "63.57",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MCK",
+      "shares": "196127.00",
+      "currency": "USD",
+      "close_price": "1072.00",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ADP",
+      "shares": "667031.00",
+      "currency": "USD",
+      "close_price": "307.14",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "UBER",
+      "shares": "2977507.00",
+      "currency": "USD",
+      "close_price": "68.78",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "8035",
+      "shares": "3655700.00",
+      "currency": "JPY",
+      "close_price": "55.44",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SBUX",
+      "shares": "1903467.00",
+      "currency": "USD",
+      "close_price": "106.16",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BMO",
+      "shares": "1161928.00",
+      "currency": "CAD",
+      "close_price": "172.71",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PLD",
+      "shares": "1557378.00",
+      "currency": "USD",
+      "close_price": "128.55",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SNDK",
+      "shares": "248030.00",
+      "currency": "USD",
+      "close_price": "806.43",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "COF",
+      "shares": "980530.00",
+      "currency": "USD",
+      "close_price": "203.84",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "OR",
+      "shares": "387944.00",
+      "currency": "EUR",
+      "close_price": "511.50",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BP.",
+      "shares": "25854316.00",
+      "currency": "GBP",
+      "close_price": "7.65",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LMT",
+      "shares": "341775.00",
+      "currency": "USD",
+      "close_price": "576.16",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "UCG",
+      "shares": "2266737.00",
+      "currency": "EUR",
+      "close_price": "86.65",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SAF",
+      "shares": "581368.00",
+      "currency": "EUR",
+      "close_price": "334.12",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "8411",
+      "shares": "3955794.00",
+      "currency": "JPY",
+      "close_price": "49.03",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MC",
+      "shares": "408149.00",
+      "currency": "EUR",
+      "close_price": "470.02",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ZURN",
+      "shares": "241318.00",
+      "currency": "CHF",
+      "close_price": "790.38",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MRVL",
+      "shares": "1425392.00",
+      "currency": "USD",
+      "close_price": "133.55",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CME",
+      "shares": "616049.00",
+      "currency": "USD",
+      "close_price": "307.24",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SYK",
+      "shares": "564690.00",
+      "currency": "USD",
+      "close_price": "335.08",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BNS",
+      "shares": "2052657.00",
+      "currency": "CAD",
+      "close_price": "91.87",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MPC",
+      "shares": "497366.00",
+      "currency": "USD",
+      "close_price": "377.32",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "D05",
+      "shares": "3362089.00",
+      "currency": "SGD",
+      "close_price": "55.74",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CFR",
+      "shares": "889360.00",
+      "currency": "CHF",
+      "close_price": "210.30",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PH",
+      "shares": "209550.00",
+      "currency": "USD",
+      "close_price": "892.29",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CM",
+      "shares": "1555885.00",
+      "currency": "CAD",
+      "close_price": "115.74",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SO",
+      "shares": "1883492.00",
+      "currency": "USD",
+      "close_price": "93.34",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NOW",
+      "shares": "1713599.00",
+      "currency": "USD",
+      "close_price": "102.36",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ENB",
+      "shares": "3644276.00",
+      "currency": "CAD",
+      "close_price": "48.11",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "VLO",
+      "shares": "497506.00",
+      "currency": "USD",
+      "close_price": "351.23",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "1299",
+      "shares": "17349874.00",
+      "currency": "HKD",
+      "close_price": "10.06",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "8766",
+      "shares": "45293640.00",
+      "currency": "JPY",
+      "close_price": "3.84",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SAN",
+      "shares": "1828210.00",
+      "currency": "EUR",
+      "close_price": "94.90",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CVS",
+      "shares": "2125438.00",
+      "currency": "USD",
+      "close_price": "81.33",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BNP",
+      "shares": "1667734.00",
+      "currency": "EUR",
+      "close_price": "103.22",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "STX",
+      "shares": "368784.00",
+      "currency": "USD",
+      "close_price": "466.53",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ADBE",
+      "shares": "693434.00",
+      "currency": "USD",
+      "close_price": "246.44",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "8058",
+      "shares": "5055704.00",
+      "currency": "JPY",
+      "close_price": "33.41",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DTE",
+      "shares": "5735200.00",
+      "currency": "EUR",
+      "close_price": "29.41",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DUK",
+      "shares": "1296391.00",
+      "currency": "USD",
+      "close_price": "130.08",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "GSK",
+      "shares": "6591038.00",
+      "currency": "GBP",
+      "close_price": "25.47",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BNY",
+      "shares": "1136857.00",
+      "currency": "USD",
+      "close_price": "147.49",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MMM",
+      "shares": "888372.00",
+      "currency": "USD",
+      "close_price": "187.77",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EQIX",
+      "shares": "166553.00",
+      "currency": "USD",
+      "close_price": "997.35",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MRSH",
+      "shares": "792475.00",
+      "currency": "USD",
+      "close_price": "209.43",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CNQ",
+      "shares": "3383073.00",
+      "currency": "CAD",
+      "close_price": "48.93",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "WM",
+      "shares": "677862.00",
+      "currency": "USD",
+      "close_price": "241.27",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ISP",
+      "shares": "23244260.00",
+      "currency": "EUR",
+      "close_price": "7.03",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PSX",
+      "shares": "658149.00",
+      "currency": "USD",
+      "close_price": "247.04",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "INTU",
+      "shares": "457410.00",
+      "currency": "USD",
+      "close_price": "354.84",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ENR",
+      "shares": "1266985.00",
+      "currency": "EUR",
+      "close_price": "127.81",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DELL",
+      "shares": "510930.00",
+      "currency": "USD",
+      "close_price": "316.91",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "INGA",
+      "shares": "4931956.00",
+      "currency": "EUR",
+      "close_price": "32.81",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CSX",
+      "shares": "3182516.00",
+      "currency": "USD",
+      "close_price": "50.83",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ICE",
+      "shares": "921896.00",
+      "currency": "USD",
+      "close_price": "174.00",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ELV",
+      "shares": "370509.00",
+      "currency": "USD",
+      "close_price": "432.00",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MAR",
+      "shares": "383579.00",
+      "currency": "USD",
+      "close_price": "417.28",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "9983",
+      "shares": "311065.00",
+      "currency": "JPY",
+      "close_price": "513.21",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AEM",
+      "shares": "833436.00",
+      "currency": "CAD",
+      "close_price": "189.25",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "USB",
+      "shares": "2638789.00",
+      "currency": "USD",
+      "close_price": "59.75",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SPOT",
+      "shares": "254666.00",
+      "currency": "USD",
+      "close_price": "614.41",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EMR",
+      "shares": "961505.00",
+      "currency": "USD",
+      "close_price": "162.61",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "REGN",
+      "shares": "171387.00",
+      "currency": "USD",
+      "close_price": "902.90",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "WDC",
+      "shares": "578013.00",
+      "currency": "USD",
+      "close_price": "267.63",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "9984",
+      "shares": "6133888.00",
+      "currency": "JPY",
+      "close_price": "25.21",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PNC",
+      "shares": "681749.00",
+      "currency": "USD",
+      "close_price": "226.75",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AMT",
+      "shares": "793440.00",
+      "currency": "USD",
+      "close_price": "193.99",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SNOW",
+      "shares": "558783.00",
+      "currency": "USD",
+      "close_price": "269.54",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BX",
+      "shares": "1256953.00",
+      "currency": "USD",
+      "close_price": "119.82",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "RIO",
+      "shares": "1781727.00",
+      "currency": "GBP",
+      "close_price": "84.50",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CMCSA",
+      "shares": "5971486.00",
+      "currency": "USD",
+      "close_price": "24.95",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TT",
+      "shares": "375076.00",
+      "currency": "USD",
+      "close_price": "392.43",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "HLT",
+      "shares": "396117.00",
+      "currency": "USD",
+      "close_price": "369.64",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "WBC",
+      "shares": "5708538.00",
+      "currency": "AUD",
+      "close_price": "25.50",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ENEL",
+      "shares": "13255281.00",
+      "currency": "EUR",
+      "close_price": "10.97",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TRV",
+      "shares": "359633.00",
+      "currency": "USD",
+      "close_price": "402.89",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MDLZ",
+      "shares": "2159090.00",
+      "currency": "USD",
+      "close_price": "66.82",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MUV2",
+      "shares": "215903.00",
+      "currency": "EUR",
+      "close_price": "667.56",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CDNS",
+      "shares": "461228.00",
+      "currency": "USD",
+      "close_price": "311.43",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NAB",
+      "shares": "5264962.00",
+      "currency": "AUD",
+      "close_price": "27.11",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CP",
+      "shares": "1515733.00",
+      "currency": "CAD",
+      "close_price": "93.87",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "6861",
+      "shares": "309704.00",
+      "currency": "JPY",
+      "close_price": "458.54",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NG.",
+      "shares": "8160006.00",
+      "currency": "GBP",
+      "close_price": "17.32",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CS",
+      "shares": "2746685.00",
+      "currency": "EUR",
+      "close_price": "51.32",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "GD",
+      "shares": "395426.00",
+      "currency": "USD",
+      "close_price": "356.35",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "8001",
+      "shares": "9284010.00",
+      "currency": "JPY",
+      "close_price": "15.17",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BN",
+      "shares": "3365745.00",
+      "currency": "CAD",
+      "close_price": "41.80",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "GM",
+      "shares": "1574846.00",
+      "currency": "USD",
+      "close_price": "89.33",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SNPS",
+      "shares": "317009.00",
+      "currency": "USD",
+      "close_price": "440.31",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FCX",
+      "shares": "2401361.00",
+      "currency": "USD",
+      "close_price": "57.90",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MSI",
+      "shares": "268307.00",
+      "currency": "USD",
+      "close_price": "517.01",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "GLW",
+      "shares": "1327458.00",
+      "currency": "USD",
+      "close_price": "103.43",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "RCL",
+      "shares": "423863.00",
+      "currency": "USD",
+      "close_price": "322.73",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SU",
+      "shares": "1976945.00",
+      "currency": "CAD",
+      "close_price": "69.13",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "HCA",
+      "shares": "267915.00",
+      "currency": "USD",
+      "close_price": "507.48",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ANZ",
+      "shares": "4859762.00",
+      "currency": "AUD",
+      "close_price": "27.91",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EOG",
+      "shares": "933326.00",
+      "currency": "USD",
+      "close_price": "144.89",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CI",
+      "shares": "448493.00",
+      "currency": "USD",
+      "close_price": "301.48",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "UPS",
+      "shares": "1214220.00",
+      "currency": "USD",
+      "close_price": "111.04",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "HWM",
+      "shares": "669773.00",
+      "currency": "USD",
+      "close_price": "200.90",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "APP",
+      "shares": "377368.00",
+      "currency": "USD",
+      "close_price": "356.10",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SHW",
+      "shares": "384802.00",
+      "currency": "USD",
+      "close_price": "349.01",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TMUS",
+      "shares": "834360.00",
+      "currency": "USD",
+      "close_price": "160.59",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "JCI",
+      "shares": "1005113.00",
+      "currency": "USD",
+      "close_price": "131.46",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CTAS",
+      "shares": "583083.00",
+      "currency": "USD",
+      "close_price": "226.41",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "INVE B",
+      "shares": "2980515.00",
+      "currency": "SEK",
+      "close_price": "44.28",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "WMB",
+      "shares": "2045955.00",
+      "currency": "USD",
+      "close_price": "64.25",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ORLY",
+      "shares": "1427905.00",
+      "currency": "USD",
+      "close_price": "91.49",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FTNT",
+      "shares": "1063126.00",
+      "currency": "USD",
+      "close_price": "122.51",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BARC",
+      "shares": "22731795.00",
+      "currency": "GBP",
+      "close_price": "5.71",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "8031",
+      "shares": "4069184.00",
+      "currency": "JPY",
+      "close_price": "31.92",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ITW",
+      "shares": "453947.00",
+      "currency": "USD",
+      "close_price": "285.41",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MCO",
+      "shares": "248797.00",
+      "currency": "USD",
+      "close_price": "515.34",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PWR",
+      "shares": "250603.00",
+      "currency": "USD",
+      "close_price": "509.06",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ABI",
+      "shares": "1501215.00",
+      "currency": "EUR",
+      "close_price": "84.94",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NET",
+      "shares": "518573.00",
+      "currency": "USD",
+      "close_price": "244.51",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MFC",
+      "shares": "2876763.00",
+      "currency": "CAD",
+      "close_price": "44.04",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ECL",
+      "shares": "414093.00",
+      "currency": "USD",
+      "close_price": "305.83",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SPCX",
+      "shares": "1014885.00",
+      "currency": "USD",
+      "close_price": "123.62",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ROST",
+      "shares": "531906.00",
+      "currency": "USD",
+      "close_price": "235.23",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ITX",
+      "shares": "1854713.00",
+      "currency": "EUR",
+      "close_price": "67.43",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CL",
+      "shares": "1267353.00",
+      "currency": "USD",
+      "close_price": "98.69",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "REL",
+      "shares": "2993394.00",
+      "currency": "GBP",
+      "close_price": "41.56",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CEG",
+      "shares": "517623.00",
+      "currency": "USD",
+      "close_price": "239.65",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SLB",
+      "shares": "2495434.00",
+      "currency": "USD",
+      "close_price": "49.64",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LLOY",
+      "shares": "93932102.00",
+      "currency": "GBP",
+      "close_price": "1.31",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FDX",
+      "shares": "383429.00",
+      "currency": "USD",
+      "close_price": "316.80",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ABNB",
+      "shares": "713383.00",
+      "currency": "USD",
+      "close_price": "170.13",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NOC",
+      "shares": "229186.00",
+      "currency": "USD",
+      "close_price": "525.25",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AJG",
+      "shares": "417352.00",
+      "currency": "USD",
+      "close_price": "288.11",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BA.",
+      "shares": "4739388.00",
+      "currency": "GBP",
+      "close_price": "25.34",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NSC",
+      "shares": "362624.00",
+      "currency": "USD",
+      "close_price": "329.25",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SPG",
+      "shares": "525008.00",
+      "currency": "USD",
+      "close_price": "226.55",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AEP",
+      "shares": "936216.00",
+      "currency": "USD",
+      "close_price": "126.77",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "O39",
+      "shares": "5380651.00",
+      "currency": "SGD",
+      "close_price": "21.86",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "4502",
+      "shares": "2683595.00",
+      "currency": "JPY",
+      "close_price": "43.63",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TGT",
+      "shares": "740509.00",
+      "currency": "USD",
+      "close_price": "157.95",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "HON",
+      "shares": "530122.00",
+      "currency": "USD",
+      "close_price": "215.78",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DB1",
+      "shares": "311121.00",
+      "currency": "EUR",
+      "close_price": "367.68",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MELI",
+      "shares": "74489.00",
+      "currency": "USD",
+      "close_price": "1530.28",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "285A",
+      "shares": "1927400.00",
+      "currency": "JPY",
+      "close_price": "59.06",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ALL",
+      "shares": "423256.00",
+      "currency": "USD",
+      "close_price": "266.72",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DASH",
+      "shares": "625359.00",
+      "currency": "USD",
+      "close_price": "179.92",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CNR",
+      "shares": "886655.00",
+      "currency": "CAD",
+      "close_price": "126.65",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "URI",
+      "shares": "106528.00",
+      "currency": "USD",
+      "close_price": "1043.78",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MNST",
+      "shares": "2322307.00",
+      "currency": "USD",
+      "close_price": "47.83",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AON",
+      "shares": "322357.00",
+      "currency": "USD",
+      "close_price": "344.40",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ABX",
+      "shares": "2726773.00",
+      "currency": "CAD",
+      "close_price": "40.39",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MQG",
+      "shares": "610720.00",
+      "currency": "AUD",
+      "close_price": "179.83",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "IFX",
+      "shares": "2116481.00",
+      "currency": "EUR",
+      "close_price": "51.59",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DBK",
+      "shares": "2984449.00",
+      "currency": "EUR",
+      "close_price": "36.58",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TFC",
+      "shares": "2182640.00",
+      "currency": "USD",
+      "close_price": "49.84",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "VRT",
+      "shares": "615140.00",
+      "currency": "USD",
+      "close_price": "176.73",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CSL",
+      "shares": "771722.00",
+      "currency": "AUD",
+      "close_price": "140.86",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "GWW",
+      "shares": "74706.00",
+      "currency": "USD",
+      "close_price": "1451.39",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DLR",
+      "shares": "619901.00",
+      "currency": "USD",
+      "close_price": "174.67",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "KMB",
+      "shares": "979670.00",
+      "currency": "USD",
+      "close_price": "110.46",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BSX",
+      "shares": "2423962.00",
+      "currency": "USD",
+      "close_price": "44.64",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "APD",
+      "shares": "349248.00",
+      "currency": "USD",
+      "close_price": "309.49",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EL",
+      "shares": "501411.00",
+      "currency": "EUR",
+      "close_price": "215.50",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TDG",
+      "shares": "90100.00",
+      "currency": "USD",
+      "close_price": "1189.19",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TRP",
+      "shares": "1704599.00",
+      "currency": "CAD",
+      "close_price": "62.68",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "COR",
+      "shares": "314316.00",
+      "currency": "USD",
+      "close_price": "339.68",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CRH",
+      "shares": "1105313.00",
+      "currency": "USD",
+      "close_price": "95.45",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NWG",
+      "shares": "13190282.00",
+      "currency": "GBP",
+      "close_price": "7.99",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DG",
+      "shares": "828751.00",
+      "currency": "EUR",
+      "close_price": "126.81",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "GLEN",
+      "shares": "15688965.00",
+      "currency": "GBP",
+      "close_price": "6.70",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CAH",
+      "shares": "388808.00",
+      "currency": "USD",
+      "close_price": "267.82",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BAYN",
+      "shares": "1646314.00",
+      "currency": "EUR",
+      "close_price": "63.12",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TEL",
+      "shares": "502301.00",
+      "currency": "USD",
+      "close_price": "206.36",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CMI",
+      "shares": "230357.00",
+      "currency": "USD",
+      "close_price": "448.58",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BDX",
+      "shares": "482758.00",
+      "currency": "USD",
+      "close_price": "213.55",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "WES",
+      "shares": "1814270.00",
+      "currency": "AUD",
+      "close_price": "56.75",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DHL",
+      "shares": "1511005.00",
+      "currency": "EUR",
+      "close_price": "67.79",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "7011",
+      "shares": "5293720.00",
+      "currency": "JPY",
+      "close_price": "19.33",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "D",
+      "shares": "1468955.00",
+      "currency": "USD",
+      "close_price": "69.64",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "KKR",
+      "shares": "1036021.00",
+      "currency": "USD",
+      "close_price": "98.30",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LONN",
+      "shares": "122860.00",
+      "currency": "CHF",
+      "close_price": "825.49",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LNG",
+      "shares": "362759.00",
+      "currency": "USD",
+      "close_price": "279.57",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LSEG",
+      "shares": "766279.00",
+      "currency": "GBP",
+      "close_price": "131.26",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "4063",
+      "shares": "2775785.00",
+      "currency": "JPY",
+      "close_price": "36.06",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NXPI",
+      "shares": "409459.00",
+      "currency": "USD",
+      "close_price": "244.43",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "HOOD",
+      "shares": "1259729.00",
+      "currency": "USD",
+      "close_price": "78.39",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "HPE",
+      "shares": "2226938.00",
+      "currency": "USD",
+      "close_price": "44.16",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "7974",
+      "shares": "1747970.00",
+      "currency": "JPY",
+      "close_price": "56.25",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "WPM",
+      "shares": "738511.00",
+      "currency": "CAD",
+      "close_price": "132.88",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AFL",
+      "shares": "774861.00",
+      "currency": "USD",
+      "close_price": "126.24",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FAST",
+      "shares": "1848794.00",
+      "currency": "USD",
+      "close_price": "52.90",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NDA FI",
+      "shares": "5270438.00",
+      "currency": "EUR",
+      "close_price": "18.52",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "KMI",
+      "shares": "3221150.00",
+      "currency": "USD",
+      "close_price": "30.19",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NA",
+      "shares": "634006.00",
+      "currency": "CAD",
+      "close_price": "152.88",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PSA",
+      "shares": "280998.00",
+      "currency": "USD",
+      "close_price": "340.50",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AZO",
+      "shares": "28561.00",
+      "currency": "USD",
+      "close_price": "3308.97",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BAS",
+      "shares": "1498542.00",
+      "currency": "EUR",
+      "close_price": "62.97",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SREN",
+      "shares": "480873.00",
+      "currency": "CHF",
+      "close_price": "195.45",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ARGX",
+      "shares": "102564.00",
+      "currency": "EUR",
+      "close_price": "915.67",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MET",
+      "shares": "939488.00",
+      "currency": "USD",
+      "close_price": "99.75",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EW",
+      "shares": "928378.00",
+      "currency": "USD",
+      "close_price": "100.82",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ADSK",
+      "shares": "345149.00",
+      "currency": "USD",
+      "close_price": "269.16",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "9433",
+      "shares": "4977700.00",
+      "currency": "JPY",
+      "close_price": "18.62",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CPG",
+      "shares": "2689071.00",
+      "currency": "USD",
+      "close_price": "34.11",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "6503",
+      "shares": "3035711.00",
+      "currency": "JPY",
+      "close_price": "30.09",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NUE",
+      "shares": "371123.00",
+      "currency": "USD",
+      "close_price": "245.68",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DDOG",
+      "shares": "521923.00",
+      "currency": "USD",
+      "close_price": "174.60",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TRGP",
+      "shares": "334732.00",
+      "currency": "USD",
+      "close_price": "271.82",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "2914",
+      "shares": "1841798.00",
+      "currency": "JPY",
+      "close_price": "49.21",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "O",
+      "shares": "1511917.00",
+      "currency": "USD",
+      "close_price": "59.50",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "7741",
+      "shares": "589123.00",
+      "currency": "JPY",
+      "close_price": "152.50",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SRE",
+      "shares": "1123788.00",
+      "currency": "USD",
+      "close_price": "79.83",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "RMS",
+      "shares": "57454.00",
+      "currency": "EUR",
+      "close_price": "1557.18",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ETR",
+      "shares": "810583.00",
+      "currency": "USD",
+      "close_price": "110.30",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DGE",
+      "shares": "3538746.00",
+      "currency": "GBP",
+      "close_price": "25.22",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "IDXX",
+      "shares": "132778.00",
+      "currency": "USD",
+      "close_price": "670.71",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PCAR",
+      "shares": "839101.00",
+      "currency": "USD",
+      "close_price": "104.50",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PYPL",
+      "shares": "1486025.00",
+      "currency": "USD",
+      "close_price": "58.96",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "RACE",
+      "shares": "206410.00",
+      "currency": "EUR",
+      "close_price": "423.59",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "RSG",
+      "shares": "349093.00",
+      "currency": "USD",
+      "close_price": "249.42",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "OKE",
+      "shares": "1004471.00",
+      "currency": "USD",
+      "close_price": "86.25",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ENI",
+      "shares": "3034744.00",
+      "currency": "EUR",
+      "close_price": "28.47",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MPWR",
+      "shares": "76092.00",
+      "currency": "USD",
+      "close_price": "1131.43",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "388",
+      "shares": "1708907.00",
+      "currency": "HKD",
+      "close_price": "50.33",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PRX",
+      "shares": "2014886.00",
+      "currency": "EUR",
+      "close_price": "42.69",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "XEL",
+      "shares": "1065142.00",
+      "currency": "USD",
+      "close_price": "80.37",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "6981",
+      "shares": "2674654.00",
+      "currency": "JPY",
+      "close_price": "31.87",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AAL",
+      "shares": "1704722.00",
+      "currency": "GBP",
+      "close_price": "49.88",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "APO",
+      "shares": "721868.00",
+      "currency": "USD",
+      "close_price": "117.27",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ROP",
+      "shares": "171558.00",
+      "currency": "USD",
+      "close_price": "490.96",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ATCO A",
+      "shares": "4449748.00",
+      "currency": "SEK",
+      "close_price": "18.90",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NDAQ",
+      "shares": "786241.00",
+      "currency": "USD",
+      "close_price": "106.83",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "STAN",
+      "shares": "2973312.00",
+      "currency": "GBP",
+      "close_price": "28.18",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "VOLV B",
+      "shares": "2586316.00",
+      "currency": "SEK",
+      "close_price": "32.33",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AME",
+      "shares": "373093.00",
+      "currency": "USD",
+      "close_price": "222.99",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TSCO",
+      "shares": "10992413.00",
+      "currency": "GBP",
+      "close_price": "7.56",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "STT",
+      "shares": "502808.00",
+      "currency": "USD",
+      "close_price": "165.23",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NTRA",
+      "shares": "227960.00",
+      "currency": "USD",
+      "close_price": "363.76",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "A",
+      "shares": "480921.00",
+      "currency": "USD",
+      "close_price": "171.78",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MSCI",
+      "shares": "125266.00",
+      "currency": "USD",
+      "close_price": "655.91",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BN",
+      "shares": "1067009.00",
+      "currency": "EUR",
+      "close_price": "76.97",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FNV",
+      "shares": "326599.00",
+      "currency": "CAD",
+      "close_price": "251.39",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "GLE",
+      "shares": "1130554.00",
+      "currency": "EUR",
+      "close_price": "72.44",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TEVA",
+      "shares": "1956182.00",
+      "currency": "USD",
+      "close_price": "41.78",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EXC",
+      "shares": "1755314.00",
+      "currency": "USD",
+      "close_price": "46.53",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EOAN",
+      "shares": "3762307.00",
+      "currency": "EUR",
+      "close_price": "21.69",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LHX",
+      "shares": "316192.00",
+      "currency": "USD",
+      "close_price": "258.11",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ENGI",
+      "shares": "3004052.00",
+      "currency": "EUR",
+      "close_price": "26.96",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "F",
+      "shares": "6441283.00",
+      "currency": "USD",
+      "close_price": "12.53",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CVNA",
+      "shares": "1119381.00",
+      "currency": "USD",
+      "close_price": "72.08",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "KDP",
+      "shares": "2186859.00",
+      "currency": "USD",
+      "close_price": "36.89",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CSU",
+      "shares": "32072.00",
+      "currency": "CAD",
+      "close_price": "2509.34",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "WCN",
+      "shares": "416652.00",
+      "currency": "USD",
+      "close_price": "191.66",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "VYLR",
+      "shares": "1163087.00",
+      "currency": "USD",
+      "close_price": "68.53",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "8053",
+      "shares": "7241460.00",
+      "currency": "JPY",
+      "close_price": "10.99",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DVN",
+      "shares": "1854305.00",
+      "currency": "USD",
+      "close_price": "42.88",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "HONA",
+      "shares": "530239.00",
+      "currency": "USD",
+      "close_price": "149.59",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "VMRK",
+      "shares": "1215671.00",
+      "currency": "USD",
+      "close_price": "65.25",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "7267",
+      "shares": "6443050.00",
+      "currency": "JPY",
+      "close_price": "12.30",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "WAB",
+      "shares": "284172.00",
+      "currency": "USD",
+      "close_price": "278.48",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FITB",
+      "shares": "1478077.00",
+      "currency": "USD",
+      "close_price": "53.45",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "HUM",
+      "shares": "191874.00",
+      "currency": "USD",
+      "close_price": "411.79",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "VEEV",
+      "shares": "253934.00",
+      "currency": "USD",
+      "close_price": "310.10",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FERG",
+      "shares": "332871.00",
+      "currency": "USD",
+      "close_price": "235.65",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CABK",
+      "shares": "5866659.00",
+      "currency": "EUR",
+      "close_price": "13.34",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EBAY",
+      "shares": "632468.00",
+      "currency": "USD",
+      "close_price": "123.35",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "IQV",
+      "shares": "293760.00",
+      "currency": "USD",
+      "close_price": "264.88",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CMG",
+      "shares": "2197511.00",
+      "currency": "USD",
+      "close_price": "35.40",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "RKT",
+      "shares": "1020527.00",
+      "currency": "GBP",
+      "close_price": "76.20",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "GRMN",
+      "shares": "271043.00",
+      "currency": "USD",
+      "close_price": "286.40",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NKE",
+      "shares": "1950066.00",
+      "currency": "USD",
+      "close_price": "39.56",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AIG",
+      "shares": "952320.00",
+      "currency": "USD",
+      "close_price": "80.93",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "6752",
+      "shares": "3823703.00",
+      "currency": "JPY",
+      "close_price": "20.07",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "GIVN",
+      "shares": "15111.00",
+      "currency": "CHF",
+      "close_price": "5039.59",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BE",
+      "shares": "451112.00",
+      "currency": "USD",
+      "close_price": "167.52",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "XYZ",
+      "shares": "894587.00",
+      "currency": "USD",
+      "close_price": "84.04",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AMP",
+      "shares": "147335.00",
+      "currency": "USD",
+      "close_price": "509.32",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "KEYS",
+      "shares": "286716.00",
+      "currency": "USD",
+      "close_price": "260.61",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "HOLN",
+      "shares": "824380.00",
+      "currency": "CHF",
+      "close_price": "90.65",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "YUM",
+      "shares": "446603.00",
+      "currency": "USD",
+      "close_price": "166.09",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BKR",
+      "shares": "1593156.00",
+      "currency": "USD",
+      "close_price": "46.20",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ATD",
+      "shares": "1215899.00",
+      "currency": "CAD",
+      "close_price": "59.73",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "UCB",
+      "shares": "222054.00",
+      "currency": "EUR",
+      "close_price": "325.81",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "8002",
+      "shares": "2223132.00",
+      "currency": "JPY",
+      "close_price": "32.36",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "RHM",
+      "shares": "76131.00",
+      "currency": "EUR",
+      "close_price": "944.75",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DSV",
+      "shares": "327566.00",
+      "currency": "DKK",
+      "close_price": "218.62",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "WDAY",
+      "shares": "355794.00",
+      "currency": "USD",
+      "close_price": "200.17",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "8591",
+      "shares": "1919090.00",
+      "currency": "JPY",
+      "close_price": "37.11",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "KR",
+      "shares": "1024662.00",
+      "currency": "USD",
+      "close_price": "69.43",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "8750",
+      "shares": "6112600.00",
+      "currency": "JPY",
+      "close_price": "11.63",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "9434",
+      "shares": "45849400.00",
+      "currency": "JPY",
+      "close_price": "1.55",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "WAT",
+      "shares": "156255.00",
+      "currency": "USD",
+      "close_price": "453.08",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ROK",
+      "shares": "184884.00",
+      "currency": "USD",
+      "close_price": "381.05",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "GALD",
+      "shares": "293964.00",
+      "currency": "CHF",
+      "close_price": "239.58",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ED",
+      "shares": "578425.00",
+      "currency": "USD",
+      "close_price": "121.44",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "VTR",
+      "shares": "778914.00",
+      "currency": "USD",
+      "close_price": "89.04",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "8630",
+      "shares": "1491110.00",
+      "currency": "JPY",
+      "close_price": "46.22",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CARR",
+      "shares": "1288179.00",
+      "currency": "USD",
+      "close_price": "53.21",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "HLN",
+      "shares": "14895785.00",
+      "currency": "GBP",
+      "close_price": "4.59",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PRU",
+      "shares": "558307.00",
+      "currency": "USD",
+      "close_price": "122.46",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DHI",
+      "shares": "432130.00",
+      "currency": "USD",
+      "close_price": "157.63",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "HIG",
+      "shares": "496620.00",
+      "currency": "USD",
+      "close_price": "137.09",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SDZ",
+      "shares": "661759.00",
+      "currency": "CHF",
+      "close_price": "102.66",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SSE",
+      "shares": "1896324.00",
+      "currency": "GBP",
+      "close_price": "35.74",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "REP",
+      "shares": "1991986.00",
+      "currency": "EUR",
+      "close_price": "33.92",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CBRE",
+      "shares": "495340.00",
+      "currency": "USD",
+      "close_price": "136.35",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NOKIA",
+      "shares": "8776620.00",
+      "currency": "EUR",
+      "close_price": "7.69",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "RIO",
+      "shares": "633269.00",
+      "currency": "AUD",
+      "close_price": "106.51",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "OXY",
+      "shares": "1195557.00",
+      "currency": "USD",
+      "close_price": "56.36",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DOL",
+      "shares": "428481.00",
+      "currency": "CAD",
+      "close_price": "156.28",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "8725",
+      "shares": "2002775.00",
+      "currency": "JPY",
+      "close_price": "33.21",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LITE",
+      "shares": "130345.00",
+      "currency": "USD",
+      "close_price": "509.70",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "GMG",
+      "shares": "3274756.00",
+      "currency": "AUD",
+      "close_price": "20.02",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "VST",
+      "shares": "580102.00",
+      "currency": "USD",
+      "close_price": "112.89",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SLF",
+      "shares": "886610.00",
+      "currency": "CAD",
+      "close_price": "73.48",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ALC",
+      "shares": "842495.00",
+      "currency": "CHF",
+      "close_price": "77.07",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TTWO",
+      "shares": "304233.00",
+      "currency": "USD",
+      "close_price": "213.36",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CCI",
+      "shares": "713134.00",
+      "currency": "USD",
+      "close_price": "90.95",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "WDS",
+      "shares": "3034889.00",
+      "currency": "AUD",
+      "close_price": "21.29",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ACGL",
+      "shares": "582924.00",
+      "currency": "USD",
+      "close_price": "110.57",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CVE",
+      "shares": "2326777.00",
+      "currency": "CAD",
+      "close_price": "27.70",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ASSA B",
+      "shares": "1571037.00",
+      "currency": "SEK",
+      "close_price": "41.00",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CCL",
+      "shares": "2137755.00",
+      "currency": "USD",
+      "close_price": "29.59",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CNC",
+      "shares": "852298.00",
+      "currency": "USD",
+      "close_price": "74.17",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SAND",
+      "shares": "1716754.00",
+      "currency": "SEK",
+      "close_price": "36.62",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FFH",
+      "shares": "32393.00",
+      "currency": "CAD",
+      "close_price": "1936.67",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "RWE",
+      "shares": "978923.00",
+      "currency": "EUR",
+      "close_price": "64.06",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EBS",
+      "shares": "495986.00",
+      "currency": "EUR",
+      "close_price": "126.19",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PAYX",
+      "shares": "523359.00",
+      "currency": "USD",
+      "close_price": "119.50",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SYY",
+      "shares": "828892.00",
+      "currency": "USD",
+      "close_price": "75.24",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "6702",
+      "shares": "2856590.00",
+      "currency": "JPY",
+      "close_price": "21.73",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AD",
+      "shares": "1584599.00",
+      "currency": "EUR",
+      "close_price": "38.89",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FANG",
+      "shares": "341756.00",
+      "currency": "USD",
+      "close_price": "179.58",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "G",
+      "shares": "1221324.00",
+      "currency": "EUR",
+      "close_price": "50.03",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "6701",
+      "shares": "2041800.00",
+      "currency": "JPY",
+      "close_price": "29.91",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LR",
+      "shares": "426171.00",
+      "currency": "EUR",
+      "close_price": "143.20",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EXPN",
+      "shares": "1440954.00",
+      "currency": "GBP",
+      "close_price": "42.21",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "U11",
+      "shares": "2045351.00",
+      "currency": "SGD",
+      "close_price": "29.60",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SGO",
+      "shares": "720403.00",
+      "currency": "EUR",
+      "close_price": "83.57",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MBG",
+      "shares": "1247243.00",
+      "currency": "EUR",
+      "close_price": "48.18",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ZTS",
+      "shares": "731180.00",
+      "currency": "USD",
+      "close_price": "82.11",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "GEHC",
+      "shares": "713086.00",
+      "currency": "USD",
+      "close_price": "83.75",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ADM",
+      "shares": "846794.00",
+      "currency": "USD",
+      "close_price": "70.47",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PEG",
+      "shares": "810015.00",
+      "currency": "USD",
+      "close_price": "73.10",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "GMAB",
+      "shares": "108289.00",
+      "currency": "DKK",
+      "close_price": "545.98",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "WEC",
+      "shares": "499360.00",
+      "currency": "USD",
+      "close_price": "118.32",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "VMC",
+      "shares": "204723.00",
+      "currency": "USD",
+      "close_price": "285.51",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SIKA",
+      "shares": "252088.00",
+      "currency": "CHF",
+      "close_price": "231.72",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FISV",
+      "shares": "925969.00",
+      "currency": "USD",
+      "close_price": "62.74",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CBOE",
+      "shares": "163593.00",
+      "currency": "USD",
+      "close_price": "353.07",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SWED A",
+      "shares": "1392254.00",
+      "currency": "SEK",
+      "close_price": "41.45",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "IFC",
+      "shares": "285935.00",
+      "currency": "CAD",
+      "close_price": "201.70",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NTR",
+      "shares": "796729.00",
+      "currency": "CAD",
+      "close_price": "72.24",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "6301",
+      "shares": "1445938.00",
+      "currency": "JPY",
+      "close_price": "39.71",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "4568",
+      "shares": "2939471.00",
+      "currency": "JPY",
+      "close_price": "19.50",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ASM",
+      "shares": "80055.00",
+      "currency": "EUR",
+      "close_price": "713.81",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "6367",
+      "shares": "420049.00",
+      "currency": "JPY",
+      "close_price": "135.97",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PRU",
+      "shares": "4564019.00",
+      "currency": "GBP",
+      "close_price": "12.51",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "7182",
+      "shares": "2942000.00",
+      "currency": "JPY",
+      "close_price": "19.40",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TER",
+      "shares": "268144.00",
+      "currency": "USD",
+      "close_price": "212.74",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "RMD",
+      "shares": "238000.00",
+      "currency": "USD",
+      "close_price": "239.31",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "POW",
+      "shares": "864853.00",
+      "currency": "CAD",
+      "close_price": "65.56",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "III",
+      "shares": "1635038.00",
+      "currency": "GBP",
+      "close_price": "34.68",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "STLD",
+      "shares": "254287.00",
+      "currency": "USD",
+      "close_price": "221.90",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SLHN",
+      "shares": "46006.00",
+      "currency": "CHF",
+      "close_price": "1213.19",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ADS",
+      "shares": "275850.00",
+      "currency": "EUR",
+      "close_price": "201.64",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FIX",
+      "shares": "57514.00",
+      "currency": "USD",
+      "close_price": "964.94",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ORA",
+      "shares": "3221358.00",
+      "currency": "EUR",
+      "close_price": "17.22",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MCHP",
+      "shares": "855023.00",
+      "currency": "USD",
+      "close_price": "64.85",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SEB A",
+      "shares": "2504720.00",
+      "currency": "SEK",
+      "close_price": "22.06",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MSTR",
+      "shares": "426758.00",
+      "currency": "USD",
+      "close_price": "129.30",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "WOW",
+      "shares": "1897701.00",
+      "currency": "AUD",
+      "close_price": "29.04",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BIIB",
+      "shares": "224436.00",
+      "currency": "USD",
+      "close_price": "243.93",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "4578",
+      "shares": "692586.00",
+      "currency": "JPY",
+      "close_price": "78.70",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "WTW",
+      "shares": "161719.00",
+      "currency": "USD",
+      "close_price": "336.51",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DANSKE",
+      "shares": "1015169.00",
+      "currency": "DKK",
+      "close_price": "53.47",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ILMN",
+      "shares": "259883.00",
+      "currency": "USD",
+      "close_price": "208.00",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LH",
+      "shares": "148388.00",
+      "currency": "USD",
+      "close_price": "363.30",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MTD",
+      "shares": "31873.00",
+      "currency": "USD",
+      "close_price": "1679.08",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MTB",
+      "shares": "242906.00",
+      "currency": "USD",
+      "close_price": "219.78",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NTRS",
+      "shares": "311237.00",
+      "currency": "USD",
+      "close_price": "171.39",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MLM",
+      "shares": "101032.00",
+      "currency": "USD",
+      "close_price": "527.83",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CIEN",
+      "shares": "230830.00",
+      "currency": "USD",
+      "close_price": "230.81",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EXR",
+      "shares": "330811.00",
+      "currency": "USD",
+      "close_price": "160.12",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DXCM",
+      "shares": "625055.00",
+      "currency": "USD",
+      "close_price": "84.46",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "L",
+      "shares": "1070428.00",
+      "currency": "CAD",
+      "close_price": "49.28",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ODFL",
+      "shares": "309304.00",
+      "currency": "USD",
+      "close_price": "170.56",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "COHR",
+      "shares": "310013.00",
+      "currency": "USD",
+      "close_price": "169.76",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AEE",
+      "shares": "465840.00",
+      "currency": "USD",
+      "close_price": "112.81",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "6954",
+      "shares": "1467755.00",
+      "currency": "JPY",
+      "close_price": "35.81",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NTAP",
+      "shares": "310173.00",
+      "currency": "USD",
+      "close_price": "169.38",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FTS",
+      "shares": "855842.00",
+      "currency": "CAD",
+      "close_price": "61.30",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LUMI",
+      "shares": "2390957.00",
+      "currency": "ILS",
+      "close_price": "21.94",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CPAY",
+      "shares": "117032.00",
+      "currency": "USD",
+      "close_price": "447.00",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EXPE",
+      "shares": "191869.00",
+      "currency": "USD",
+      "close_price": "272.48",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AER",
+      "shares": "314322.00",
+      "currency": "USD",
+      "close_price": "166.17",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TWLO",
+      "shares": "259855.00",
+      "currency": "USD",
+      "close_price": "200.96",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "HBAN",
+      "shares": "3333559.00",
+      "currency": "USD",
+      "close_price": "15.61",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "IR",
+      "shares": "635179.00",
+      "currency": "USD",
+      "close_price": "81.85",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EQT",
+      "shares": "1022508.00",
+      "currency": "USD",
+      "close_price": "50.62",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CTSH",
+      "shares": "776877.00",
+      "currency": "USD",
+      "close_price": "66.54",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "OTIS",
+      "shares": "647493.00",
+      "currency": "USD",
+      "close_price": "79.49",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SE",
+      "shares": "678452.00",
+      "currency": "USD",
+      "close_price": "75.63",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EQNR",
+      "shares": "1174486.00",
+      "currency": "NOK",
+      "close_price": "43.60",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "9432",
+      "shares": "49002000.00",
+      "currency": "JPY",
+      "close_price": "1.04",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TCL",
+      "shares": "5097307.00",
+      "currency": "AUD",
+      "close_price": "10.04",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "IBKR",
+      "shares": "702837.00",
+      "currency": "USD",
+      "close_price": "72.73",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "IMB",
+      "shares": "1237553.00",
+      "currency": "GBP",
+      "close_price": "41.27",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FER",
+      "shares": "881561.00",
+      "currency": "EUR",
+      "close_price": "57.93",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "5803",
+      "shares": "2471400.00",
+      "currency": "JPY",
+      "close_price": "20.65",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SUNB",
+      "shares": "669737.00",
+      "currency": "USD",
+      "close_price": "76.13",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AMS",
+      "shares": "756763.00",
+      "currency": "EUR",
+      "close_price": "66.96",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "RVMD",
+      "shares": "285015.00",
+      "currency": "USD",
+      "close_price": "177.65",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "VWS",
+      "shares": "1641608.00",
+      "currency": "DKK",
+      "close_price": "30.82",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ULTA",
+      "shares": "77778.00",
+      "currency": "USD",
+      "close_price": "649.80",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "WSM",
+      "shares": "195178.00",
+      "currency": "USD",
+      "close_price": "258.61",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "COIN",
+      "shares": "368214.00",
+      "currency": "USD",
+      "close_price": "136.82",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "IRM",
+      "shares": "477183.00",
+      "currency": "USD",
+      "close_price": "105.50",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "RJF",
+      "shares": "305248.00",
+      "currency": "USD",
+      "close_price": "164.82",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "4519",
+      "shares": "1104000.00",
+      "currency": "JPY",
+      "close_price": "45.54",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AV.",
+      "shares": "4956868.00",
+      "currency": "GBP",
+      "close_price": "10.14",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "6723",
+      "shares": "2990200.00",
+      "currency": "JPY",
+      "close_price": "16.65",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "4503",
+      "shares": "2936300.00",
+      "currency": "JPY",
+      "close_price": "16.93",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PRY",
+      "shares": "440711.00",
+      "currency": "EUR",
+      "close_price": "112.49",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "VOD",
+      "shares": "30803909.00",
+      "currency": "GBP",
+      "close_price": "1.61",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "VRSK",
+      "shares": "234049.00",
+      "currency": "USD",
+      "close_price": "211.47",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DG",
+      "shares": "357711.00",
+      "currency": "USD",
+      "close_price": "138.00",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "8801",
+      "shares": "4484958.00",
+      "currency": "JPY",
+      "close_price": "11.01",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "KBC",
+      "shares": "374095.00",
+      "currency": "EUR",
+      "close_price": "131.41",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "8802",
+      "shares": "1802831.00",
+      "currency": "JPY",
+      "close_price": "27.09",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CPRT",
+      "shares": "1499068.00",
+      "currency": "USD",
+      "close_price": "32.48",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DOV",
+      "shares": "240106.00",
+      "currency": "USD",
+      "close_price": "202.56",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CCO",
+      "shares": "706699.00",
+      "currency": "CAD",
+      "close_price": "68.49",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "669",
+      "shares": "2646600.00",
+      "currency": "HKD",
+      "close_price": "18.20",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "5108",
+      "shares": "1787002.00",
+      "currency": "JPY",
+      "close_price": "26.96",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "8015",
+      "shares": "1122800.00",
+      "currency": "JPY",
+      "close_price": "42.83",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AWK",
+      "shares": "314064.00",
+      "currency": "USD",
+      "close_price": "152.42",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "RPRX",
+      "shares": "708465.00",
+      "currency": "USD",
+      "close_price": "67.57",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DNB",
+      "shares": "1362634.00",
+      "currency": "NOK",
+      "close_price": "35.13",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "8604",
+      "shares": "4776931.00",
+      "currency": "JPY",
+      "close_price": "10.00",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TEAM",
+      "shares": "260478.00",
+      "currency": "USD",
+      "close_price": "183.29",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SYF",
+      "shares": "641778.00",
+      "currency": "USD",
+      "close_price": "74.07",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "WST",
+      "shares": "120893.00",
+      "currency": "USD",
+      "close_price": "392.48",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "7751",
+      "shares": "1532064.00",
+      "currency": "JPY",
+      "close_price": "30.91",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PCG",
+      "shares": "3577790.00",
+      "currency": "USD",
+      "close_price": "13.23",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DGX",
+      "shares": "185696.00",
+      "currency": "USD",
+      "close_price": "254.74",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AXON",
+      "shares": "123464.00",
+      "currency": "USD",
+      "close_price": "382.56",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PHM",
+      "shares": "348834.00",
+      "currency": "USD",
+      "close_price": "135.15",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ARES",
+      "shares": "351027.00",
+      "currency": "USD",
+      "close_price": "133.72",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ALL",
+      "shares": "1020075.00",
+      "currency": "AUD",
+      "close_price": "45.97",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "P",
+      "shares": "500801.00",
+      "currency": "USD",
+      "close_price": "93.44",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DLTR",
+      "shares": "338634.00",
+      "currency": "USD",
+      "close_price": "137.94",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "VLTO",
+      "shares": "400512.00",
+      "currency": "USD",
+      "close_price": "116.55",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LYV",
+      "shares": "257016.00",
+      "currency": "USD",
+      "close_price": "181.25",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "HPQ",
+      "shares": "1579489.00",
+      "currency": "USD",
+      "close_price": "29.44",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PPG",
+      "shares": "376651.00",
+      "currency": "USD",
+      "close_price": "123.27",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "OKTA",
+      "shares": "268891.00",
+      "currency": "USD",
+      "close_price": "171.16",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TPR",
+      "shares": "340270.00",
+      "currency": "USD",
+      "close_price": "134.17",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DTE",
+      "shares": "337085.00",
+      "currency": "USD",
+      "close_price": "134.87",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ERIC B",
+      "shares": "4331704.00",
+      "currency": "SEK",
+      "close_price": "10.49",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PFG",
+      "shares": "402189.00",
+      "currency": "USD",
+      "close_price": "112.82",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "IHG",
+      "shares": "255814.00",
+      "currency": "USD",
+      "close_price": "176.95",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CHD",
+      "shares": "406408.00",
+      "currency": "USD",
+      "close_price": "111.33",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "K",
+      "shares": "2092103.00",
+      "currency": "CAD",
+      "close_price": "21.62",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CINF",
+      "shares": "239598.00",
+      "currency": "USD",
+      "close_price": "188.31",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "OMC",
+      "shares": "517529.00",
+      "currency": "USD",
+      "close_price": "87.09",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EME",
+      "shares": "75541.00",
+      "currency": "USD",
+      "close_price": "595.32",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PUB",
+      "shares": "381877.00",
+      "currency": "EUR",
+      "close_price": "117.77",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FE",
+      "shares": "948912.00",
+      "currency": "USD",
+      "close_price": "47.10",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "2802",
+      "shares": "1444990.00",
+      "currency": "JPY",
+      "close_price": "30.86",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "QBE",
+      "shares": "2461537.00",
+      "currency": "AUD",
+      "close_price": "18.02",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CCEP",
+      "shares": "377829.00",
+      "currency": "USD",
+      "close_price": "117.29",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ABN",
+      "shares": "952928.00",
+      "currency": "EUR",
+      "close_price": "46.47",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "RBLX",
+      "shares": "927832.00",
+      "currency": "USD",
+      "close_price": "47.65",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "STMPA",
+      "shares": "1055927.00",
+      "currency": "EUR",
+      "close_price": "41.61",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PPL",
+      "shares": "918527.00",
+      "currency": "CAD",
+      "close_price": "47.76",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "RF",
+      "shares": "1534753.00",
+      "currency": "USD",
+      "close_price": "28.41",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "8308",
+      "shares": "3055700.00",
+      "currency": "JPY",
+      "close_price": "14.24",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DRI",
+      "shares": "190125.00",
+      "currency": "USD",
+      "close_price": "228.67",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NXT",
+      "shares": "201134.00",
+      "currency": "GBP",
+      "close_price": "215.49",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "VICI",
+      "shares": "1717730.00",
+      "currency": "USD",
+      "close_price": "25.21",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CFG",
+      "shares": "677429.00",
+      "currency": "USD",
+      "close_price": "63.83",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "2388",
+      "shares": "6818977.00",
+      "currency": "HKD",
+      "close_price": "6.34",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "HAL",
+      "shares": "1351308.00",
+      "currency": "USD",
+      "close_price": "31.92",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CBK",
+      "shares": "991873.00",
+      "currency": "EUR",
+      "close_price": "43.48",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TECK.B",
+      "shares": "718698.00",
+      "currency": "CAD",
+      "close_price": "59.97",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "VRSN",
+      "shares": "138005.00",
+      "currency": "USD",
+      "close_price": "312.06",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ES",
+      "shares": "598434.00",
+      "currency": "USD",
+      "close_price": "71.92",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "POLI",
+      "shares": "1936880.00",
+      "currency": "ILS",
+      "close_price": "22.19",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ATCO B",
+      "shares": "2610061.00",
+      "currency": "SEK",
+      "close_price": "16.44",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ATO",
+      "shares": "244906.00",
+      "currency": "USD",
+      "close_price": "175.00",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MT",
+      "shares": "700096.00",
+      "currency": "EUR",
+      "close_price": "61.19",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SAMPO",
+      "shares": "3825390.00",
+      "currency": "EUR",
+      "close_price": "11.17",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MKL",
+      "shares": "21868.00",
+      "currency": "USD",
+      "close_price": "1949.92",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MDB",
+      "shares": "139871.00",
+      "currency": "USD",
+      "close_price": "304.59",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "HEI",
+      "shares": "216798.00",
+      "currency": "EUR",
+      "close_price": "196.53",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "5802",
+      "shares": "4699288.00",
+      "currency": "JPY",
+      "close_price": "9.06",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "HO",
+      "shares": "168763.00",
+      "currency": "EUR",
+      "close_price": "252.16",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "Z74",
+      "shares": "12900476.00",
+      "currency": "SGD",
+      "close_price": "3.30",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "7832",
+      "shares": "991000.00",
+      "currency": "JPY",
+      "close_price": "42.81",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ON",
+      "shares": "671822.00",
+      "currency": "USD",
+      "close_price": "63.01",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "HEIA",
+      "shares": "448198.00",
+      "currency": "EUR",
+      "close_price": "94.33",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "6762",
+      "shares": "2961700.00",
+      "currency": "JPY",
+      "close_price": "14.26",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CASY",
+      "shares": "60898.00",
+      "currency": "USD",
+      "close_price": "689.53",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DSFIR",
+      "shares": "329095.00",
+      "currency": "EUR",
+      "close_price": "127.20",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "3382",
+      "shares": "2921436.00",
+      "currency": "JPY",
+      "close_price": "14.32",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "JBL",
+      "shares": "175651.00",
+      "currency": "USD",
+      "close_price": "236.36",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LPLA",
+      "shares": "137846.00",
+      "currency": "USD",
+      "close_price": "300.89",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NBIS",
+      "shares": "344233.00",
+      "currency": "USD",
+      "close_price": "120.37",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "6178",
+      "shares": "2684000.00",
+      "currency": "JPY",
+      "close_price": "15.41",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PPL",
+      "shares": "1148474.00",
+      "currency": "USD",
+      "close_price": "36.00",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TDY",
+      "shares": "69772.00",
+      "currency": "USD",
+      "close_price": "591.72",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "VIE",
+      "shares": "1089636.00",
+      "currency": "EUR",
+      "close_price": "37.89",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FRE",
+      "shares": "707777.00",
+      "currency": "EUR",
+      "close_price": "58.23",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FTI",
+      "shares": "668098.00",
+      "currency": "USD",
+      "close_price": "61.59",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EXPD",
+      "shares": "217581.00",
+      "currency": "USD",
+      "close_price": "188.87",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BMPS",
+      "shares": "3230325.00",
+      "currency": "EUR",
+      "close_price": "12.70",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FLEX",
+      "shares": "612804.00",
+      "currency": "USD",
+      "close_price": "66.73",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ADYEN",
+      "shares": "40738.00",
+      "currency": "EUR",
+      "close_price": "1002.01",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "1",
+      "shares": "4482040.00",
+      "currency": "HKD",
+      "close_price": "9.09",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "UTHR",
+      "shares": "71386.00",
+      "currency": "USD",
+      "close_price": "565.72",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "8309",
+      "shares": "3863384.00",
+      "currency": "JPY",
+      "close_price": "10.45",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AENA",
+      "shares": "1265506.00",
+      "currency": "EUR",
+      "close_price": "31.79",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "6971",
+      "shares": "2134156.00",
+      "currency": "JPY",
+      "close_price": "18.78",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "RKLB",
+      "shares": "869762.00",
+      "currency": "USD",
+      "close_price": "45.99",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "HSY",
+      "shares": "224784.00",
+      "currency": "USD",
+      "close_price": "177.43",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PTC",
+      "shares": "204787.00",
+      "currency": "USD",
+      "close_price": "194.60",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "STE",
+      "shares": "156316.00",
+      "currency": "USD",
+      "close_price": "254.12",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NST",
+      "shares": "2200797.00",
+      "currency": "AUD",
+      "close_price": "18.05",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PHIA",
+      "shares": "1283275.00",
+      "currency": "EUR",
+      "close_price": "30.89",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CNP",
+      "shares": "986069.00",
+      "currency": "USD",
+      "close_price": "39.97",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "STZ",
+      "shares": "271932.00",
+      "currency": "USD",
+      "close_price": "144.56",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "Q",
+      "shares": "357138.00",
+      "currency": "USD",
+      "close_price": "110.04",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "4661",
+      "shares": "1671400.00",
+      "currency": "JPY",
+      "close_price": "23.51",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "GPN",
+      "shares": "413277.00",
+      "currency": "USD",
+      "close_price": "94.98",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "WKL",
+      "shares": "377721.00",
+      "currency": "EUR",
+      "close_price": "103.76",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NN",
+      "shares": "432988.00",
+      "currency": "EUR",
+      "close_price": "90.42",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BMW",
+      "shares": "568340.00",
+      "currency": "EUR",
+      "close_price": "68.87",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "HEXA B",
+      "shares": "3520622.00",
+      "currency": "SEK",
+      "close_price": "11.12",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ALAB",
+      "shares": "217836.00",
+      "currency": "USD",
+      "close_price": "179.47",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NSIS B",
+      "shares": "540006.00",
+      "currency": "DKK",
+      "close_price": "72.08",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PST",
+      "shares": "1395995.00",
+      "currency": "EUR",
+      "close_price": "27.85",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "5020",
+      "shares": "4770928.00",
+      "currency": "JPY",
+      "close_price": "8.10",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CLS",
+      "shares": "187306.00",
+      "currency": "CAD",
+      "close_price": "206.10",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ML",
+      "shares": "1030306.00",
+      "currency": "EUR",
+      "close_price": "37.43",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "6146",
+      "shares": "146700.00",
+      "currency": "JPY",
+      "close_price": "262.56",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "9020",
+      "shares": "1511888.00",
+      "currency": "JPY",
+      "close_price": "25.44",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FTV",
+      "shares": "587600.00",
+      "currency": "USD",
+      "close_price": "65.42",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EL",
+      "shares": "356888.00",
+      "currency": "USD",
+      "close_price": "107.65",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EFX",
+      "shares": "198130.00",
+      "currency": "USD",
+      "close_price": "193.84",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SHB A",
+      "shares": "2330730.00",
+      "currency": "SEK",
+      "close_price": "16.45",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "KNEBV",
+      "shares": "577829.00",
+      "currency": "EUR",
+      "close_price": "66.22",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "GEBN",
+      "shares": "52604.00",
+      "currency": "CHF",
+      "close_price": "725.31",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "4901",
+      "shares": "1724183.00",
+      "currency": "JPY",
+      "close_price": "22.13",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "RS",
+      "shares": "91384.00",
+      "currency": "USD",
+      "close_price": "414.04",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EIX",
+      "shares": "620578.00",
+      "currency": "USD",
+      "close_price": "60.88",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "6902",
+      "shares": "3093372.00",
+      "currency": "JPY",
+      "close_price": "12.20",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "INSM",
+      "shares": "346424.00",
+      "currency": "USD",
+      "close_price": "108.76",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LGEN",
+      "shares": "9000683.00",
+      "currency": "GBP",
+      "close_price": "4.18",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ATI",
+      "shares": "222954.00",
+      "currency": "USD",
+      "close_price": "168.34",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "KHC",
+      "shares": "1481187.00",
+      "currency": "USD",
+      "close_price": "25.32",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "XYL",
+      "shares": "374463.00",
+      "currency": "USD",
+      "close_price": "100.05",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "A5G",
+      "shares": "2892379.00",
+      "currency": "EUR",
+      "close_price": "12.94",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "QSR",
+      "shares": "474651.00",
+      "currency": "CAD",
+      "close_price": "78.52",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CAP",
+      "shares": "253970.00",
+      "currency": "EUR",
+      "close_price": "146.51",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DOW",
+      "shares": "1157053.00",
+      "currency": "USD",
+      "close_price": "31.98",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "16",
+      "shares": "2425016.00",
+      "currency": "HKD",
+      "close_price": "15.18",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SW",
+      "shares": "826198.00",
+      "currency": "USD",
+      "close_price": "44.51",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "7269",
+      "shares": "2541416.00",
+      "currency": "JPY",
+      "close_price": "14.40",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BT.A",
+      "shares": "11666424.00",
+      "currency": "GBP",
+      "close_price": "3.12",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "4452",
+      "shares": "1477648.00",
+      "currency": "JPY",
+      "close_price": "24.65",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "9022",
+      "shares": "1309500.00",
+      "currency": "JPY",
+      "close_price": "27.71",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PKG",
+      "shares": "145834.00",
+      "currency": "USD",
+      "close_price": "248.80",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BRO",
+      "shares": "486595.00",
+      "currency": "USD",
+      "close_price": "74.38",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MTX",
+      "shares": "93131.00",
+      "currency": "EUR",
+      "close_price": "386.21",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "HBAN",
+      "shares": "128851.00",
+      "currency": "CHF",
+      "close_price": "278.19",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "IMO",
+      "shares": "284449.00",
+      "currency": "CAD",
+      "close_price": "125.78",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "UMG",
+      "shares": "1792151.00",
+      "currency": "EUR",
+      "close_price": "19.96",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LDO",
+      "shares": "643455.00",
+      "currency": "EUR",
+      "close_price": "55.41",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BPE",
+      "shares": "2389090.00",
+      "currency": "EUR",
+      "close_price": "14.90",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CMS",
+      "shares": "502862.00",
+      "currency": "USD",
+      "close_price": "70.68",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BIRG",
+      "shares": "1641773.00",
+      "currency": "EUR",
+      "close_price": "21.65",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DTG",
+      "shares": "754578.00",
+      "currency": "EUR",
+      "close_price": "47.05",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AMRZ",
+      "shares": "826800.00",
+      "currency": "USD",
+      "close_price": "42.65",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "4543",
+      "shares": "2116600.00",
+      "currency": "JPY",
+      "close_price": "16.64",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ZBH",
+      "shares": "329523.00",
+      "currency": "USD",
+      "close_price": "106.85",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BAM",
+      "shares": "667657.00",
+      "currency": "CAD",
+      "close_price": "52.60",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ZS",
+      "shares": "171137.00",
+      "currency": "USD",
+      "close_price": "203.88",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "HUBB",
+      "shares": "83266.00",
+      "currency": "USD",
+      "close_price": "418.79",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "5401",
+      "shares": "8220200.00",
+      "currency": "JPY",
+      "close_price": "4.22",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "1605",
+      "shares": "1528457.00",
+      "currency": "JPY",
+      "close_price": "22.67",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DD",
+      "shares": "238762.00",
+      "currency": "USD",
+      "close_price": "144.93",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DSY",
+      "shares": "1172505.00",
+      "currency": "EUR",
+      "close_price": "29.40",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SAB",
+      "shares": "8498767.00",
+      "currency": "EUR",
+      "close_price": "4.05",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ZM",
+      "shares": "387184.00",
+      "currency": "USD",
+      "close_price": "88.82",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TROW",
+      "shares": "316121.00",
+      "currency": "USD",
+      "close_price": "108.71",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BR",
+      "shares": "177103.00",
+      "currency": "USD",
+      "close_price": "193.92",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LEN",
+      "shares": "374842.00",
+      "currency": "USD",
+      "close_price": "91.59",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MRK",
+      "shares": "203324.00",
+      "currency": "EUR",
+      "close_price": "168.80",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "4062",
+      "shares": "805200.00",
+      "currency": "JPY",
+      "close_price": "42.60",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FWONK",
+      "shares": "321484.00",
+      "currency": "USD",
+      "close_price": "106.52",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ALNY",
+      "shares": "218364.00",
+      "currency": "USD",
+      "close_price": "156.66",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AMCR",
+      "shares": "742276.00",
+      "currency": "USD",
+      "close_price": "45.84",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CF",
+      "shares": "285898.00",
+      "currency": "USD",
+      "close_price": "118.57",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "XPO",
+      "shares": "191431.00",
+      "currency": "USD",
+      "close_price": "176.48",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SCMN",
+      "shares": "37346.00",
+      "currency": "CHF",
+      "close_price": "901.72",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NI",
+      "shares": "756726.00",
+      "currency": "USD",
+      "close_price": "44.44",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "GIS",
+      "shares": "920175.00",
+      "currency": "USD",
+      "close_price": "36.46",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "IFF",
+      "shares": "387423.00",
+      "currency": "USD",
+      "close_price": "86.36",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CDW",
+      "shares": "210501.00",
+      "currency": "USD",
+      "close_price": "158.39",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EXE",
+      "shares": "390492.00",
+      "currency": "USD",
+      "close_price": "85.34",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SBAC",
+      "shares": "172276.00",
+      "currency": "USD",
+      "close_price": "193.08",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "KPN",
+      "shares": "6625568.00",
+      "currency": "EUR",
+      "close_price": "5.00",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FSLR",
+      "shares": "169060.00",
+      "currency": "USD",
+      "close_price": "195.76",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BALL",
+      "shares": "493706.00",
+      "currency": "USD",
+      "close_price": "66.91",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LNT",
+      "shares": "447958.00",
+      "currency": "USD",
+      "close_price": "73.44",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BXB",
+      "shares": "2139636.00",
+      "currency": "AUD",
+      "close_price": "15.30",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ESLT",
+      "shares": "48979.00",
+      "currency": "ILS",
+      "close_price": "665.69",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "COL",
+      "shares": "2099753.00",
+      "currency": "AUD",
+      "close_price": "15.45",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TRI",
+      "shares": "274513.00",
+      "currency": "CAD",
+      "close_price": "118.08",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "KEY",
+      "shares": "1545566.00",
+      "currency": "USD",
+      "close_price": "20.96",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CRDO",
+      "shares": "288459.00",
+      "currency": "USD",
+      "close_price": "112.33",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "L",
+      "shares": "290622.00",
+      "currency": "USD",
+      "close_price": "111.13",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "INCY",
+      "shares": "273169.00",
+      "currency": "USD",
+      "close_price": "118.01",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BBD.B",
+      "shares": "143618.00",
+      "currency": "CAD",
+      "close_price": "223.79",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "HNR1",
+      "shares": "93276.00",
+      "currency": "EUR",
+      "close_price": "344.00",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "6273",
+      "shares": "85645.00",
+      "currency": "JPY",
+      "close_price": "374.55",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ROIV",
+      "shares": "873534.00",
+      "currency": "USD",
+      "close_price": "36.62",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BBY",
+      "shares": "321557.00",
+      "currency": "USD",
+      "close_price": "99.40",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ENTG",
+      "shares": "254949.00",
+      "currency": "USD",
+      "close_price": "124.75",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SGSN",
+      "shares": "250152.00",
+      "currency": "CHF",
+      "close_price": "127.19",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EVRG",
+      "shares": "362887.00",
+      "currency": "USD",
+      "close_price": "87.41",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "9101",
+      "shares": "705600.00",
+      "currency": "JPY",
+      "close_price": "44.58",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "7936",
+      "shares": "955200.00",
+      "currency": "JPY",
+      "close_price": "32.73",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "HLMA",
+      "shares": "698329.00",
+      "currency": "GBP",
+      "close_price": "44.66",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SAAB B",
+      "shares": "496954.00",
+      "currency": "SEK",
+      "close_price": "62.76",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SWKS",
+      "shares": "383659.00",
+      "currency": "USD",
+      "close_price": "81.21",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PGHN",
+      "shares": "37466.00",
+      "currency": "CHF",
+      "close_price": "829.17",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SN",
+      "shares": "142502.00",
+      "currency": "USD",
+      "close_price": "217.13",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SNA",
+      "shares": "84201.00",
+      "currency": "USD",
+      "close_price": "366.44",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FFIV",
+      "shares": "98494.00",
+      "currency": "USD",
+      "close_price": "311.74",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "J",
+      "shares": "207971.00",
+      "currency": "USD",
+      "close_price": "147.54",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AFRM",
+      "shares": "439315.00",
+      "currency": "USD",
+      "close_price": "69.66",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LDOS",
+      "shares": "224899.00",
+      "currency": "USD",
+      "close_price": "135.81",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NVR",
+      "shares": "4753.00",
+      "currency": "USD",
+      "close_price": "6414.18",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FMG",
+      "shares": "2819162.00",
+      "currency": "AUD",
+      "close_price": "10.78",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "INF",
+      "shares": "2640677.00",
+      "currency": "GBP",
+      "close_price": "11.50",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "9735",
+      "shares": "685986.00",
+      "currency": "JPY",
+      "close_price": "44.14",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "8267",
+      "shares": "3649000.00",
+      "currency": "JPY",
+      "close_price": "8.29",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "STO",
+      "shares": "5071783.00",
+      "currency": "AUD",
+      "close_price": "5.96",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PAAS",
+      "shares": "743201.00",
+      "currency": "CAD",
+      "close_price": "40.63",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "GIB.A",
+      "shares": "365465.00",
+      "currency": "CAD",
+      "close_price": "82.54",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MAS",
+      "shares": "359537.00",
+      "currency": "USD",
+      "close_price": "83.83",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BAER",
+      "shares": "359526.00",
+      "currency": "CHF",
+      "close_price": "83.78",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EVN",
+      "shares": "3264424.00",
+      "currency": "AUD",
+      "close_price": "9.23",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "9503",
+      "shares": "1746480.00",
+      "currency": "JPY",
+      "close_price": "17.19",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TSN",
+      "shares": "498656.00",
+      "currency": "USD",
+      "close_price": "60.11",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ACA",
+      "shares": "1690620.00",
+      "currency": "EUR",
+      "close_price": "17.72",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FPH",
+      "shares": "1098543.00",
+      "currency": "NZD",
+      "close_price": "27.25",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SHL",
+      "shares": "592552.00",
+      "currency": "EUR",
+      "close_price": "50.52",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TSCO",
+      "shares": "817021.00",
+      "currency": "USD",
+      "close_price": "36.61",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "2",
+      "shares": "2928689.00",
+      "currency": "HKD",
+      "close_price": "10.20",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BAMI",
+      "shares": "1913224.00",
+      "currency": "EUR",
+      "close_price": "15.59",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ALFA",
+      "shares": "539997.00",
+      "currency": "SEK",
+      "close_price": "55.04",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "JBHT",
+      "shares": "135039.00",
+      "currency": "USD",
+      "close_price": "218.99",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "GEN",
+      "shares": "965749.00",
+      "currency": "USD",
+      "close_price": "30.60",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FOXA",
+      "shares": "435037.00",
+      "currency": "USD",
+      "close_price": "67.67",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FCNCA",
+      "shares": "12726.00",
+      "currency": "USD",
+      "close_price": "2304.72",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "9104",
+      "shares": "662600.00",
+      "currency": "JPY",
+      "close_price": "44.19",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NBIX",
+      "shares": "182948.00",
+      "currency": "USD",
+      "close_price": "159.76",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ESSITY B",
+      "shares": "978920.00",
+      "currency": "SEK",
+      "close_price": "29.85",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "WSP",
+      "shares": "215450.00",
+      "currency": "CAD",
+      "close_price": "135.40",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "HEI A",
+      "shares": "119344.00",
+      "currency": "USD",
+      "close_price": "244.26",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SOFI",
+      "shares": "1812031.00",
+      "currency": "USD",
+      "close_price": "16.04",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "KRZ",
+      "shares": "256648.00",
+      "currency": "EUR",
+      "close_price": "113.17",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TXT",
+      "shares": "339917.00",
+      "currency": "USD",
+      "close_price": "85.23",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SSNC",
+      "shares": "368266.00",
+      "currency": "USD",
+      "close_price": "78.31",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EG",
+      "shares": "68996.00",
+      "currency": "USD",
+      "close_price": "417.79",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FM",
+      "shares": "1252965.00",
+      "currency": "CAD",
+      "close_price": "22.84",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CHRW",
+      "shares": "222815.00",
+      "currency": "USD",
+      "close_price": "128.31",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "2503",
+      "shares": "1421360.00",
+      "currency": "JPY",
+      "close_price": "20.06",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EPI A",
+      "shares": "1153816.00",
+      "currency": "SEK",
+      "close_price": "24.70",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MRU",
+      "shares": "397296.00",
+      "currency": "CAD",
+      "close_price": "71.08",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ACS",
+      "shares": "295595.00",
+      "currency": "EUR",
+      "close_price": "95.37",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "GPC",
+      "shares": "225924.00",
+      "currency": "USD",
+      "close_price": "124.44",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "KNIN",
+      "shares": "93408.00",
+      "currency": "CHF",
+      "close_price": "301.03",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TOU",
+      "shares": "631218.00",
+      "currency": "CAD",
+      "close_price": "44.50",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FBK",
+      "shares": "1097498.00",
+      "currency": "EUR",
+      "close_price": "25.52",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NRG",
+      "shares": "346899.00",
+      "currency": "USD",
+      "close_price": "80.55",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ORG",
+      "shares": "3303182.00",
+      "currency": "AUD",
+      "close_price": "8.45",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "WRB",
+      "shares": "360500.00",
+      "currency": "USD",
+      "close_price": "76.98",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "IP",
+      "shares": "810581.00",
+      "currency": "USD",
+      "close_price": "34.24",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SOON",
+      "shares": "77077.00",
+      "currency": "CHF",
+      "close_price": "358.73",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "RBA",
+      "shares": "290752.00",
+      "currency": "CAD",
+      "close_price": "95.03",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "HEN3",
+      "shares": "292602.00",
+      "currency": "EUR",
+      "close_price": "94.26",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "WN",
+      "shares": "351653.00",
+      "currency": "CAD",
+      "close_price": "78.40",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FTAI",
+      "shares": "168769.00",
+      "currency": "USD",
+      "close_price": "162.45",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FICO",
+      "shares": "38774.00",
+      "currency": "USD",
+      "close_price": "707.40",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "6920",
+      "shares": "129000.00",
+      "currency": "JPY",
+      "close_price": "212.64",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TRU",
+      "shares": "326012.00",
+      "currency": "USD",
+      "close_price": "82.91",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NDSN",
+      "shares": "86928.00",
+      "currency": "USD",
+      "close_price": "310.49",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BOL",
+      "shares": "517824.00",
+      "currency": "SEK",
+      "close_price": "51.80",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MG",
+      "shares": "425686.00",
+      "currency": "CAD",
+      "close_price": "62.89",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "1925",
+      "shares": "1767704.00",
+      "currency": "JPY",
+      "close_price": "15.15",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EDP",
+      "shares": "4781130.00",
+      "currency": "EUR",
+      "close_price": "5.59",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NVT",
+      "shares": "270867.00",
+      "currency": "USD",
+      "close_price": "98.38",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "7453",
+      "shares": "821100.00",
+      "currency": "JPY",
+      "close_price": "32.34",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "4507",
+      "shares": "1312480.00",
+      "currency": "JPY",
+      "close_price": "20.22",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EQT",
+      "shares": "833170.00",
+      "currency": "SEK",
+      "close_price": "31.83",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CLNX",
+      "shares": "869054.00",
+      "currency": "EUR",
+      "close_price": "30.41",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CW",
+      "shares": "60592.00",
+      "currency": "USD",
+      "close_price": "433.87",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BURL",
+      "shares": "104691.00",
+      "currency": "USD",
+      "close_price": "250.77",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "INVH",
+      "shares": "952703.00",
+      "currency": "USD",
+      "close_price": "27.56",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ESS",
+      "shares": "96630.00",
+      "currency": "USD",
+      "close_price": "271.34",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "UU.",
+      "shares": "1243228.00",
+      "currency": "GBP",
+      "close_price": "21.06",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SUN",
+      "shares": "1871345.00",
+      "currency": "AUD",
+      "close_price": "13.97",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "6326",
+      "shares": "1511171.00",
+      "currency": "JPY",
+      "close_price": "17.27",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "RI",
+      "shares": "324349.00",
+      "currency": "EUR",
+      "close_price": "80.45",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "KIM",
+      "shares": "1017157.00",
+      "currency": "USD",
+      "close_price": "25.63",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "9766",
+      "shares": "141773.00",
+      "currency": "JPY",
+      "close_price": "183.60",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "9532",
+      "shares": "681411.00",
+      "currency": "JPY",
+      "close_price": "38.07",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "8795",
+      "shares": "810505.00",
+      "currency": "JPY",
+      "close_price": "31.95",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FIS",
+      "shares": "880774.00",
+      "currency": "USD",
+      "close_price": "29.39",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MAA",
+      "shares": "211462.00",
+      "currency": "USD",
+      "close_price": "121.69",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "IEX",
+      "shares": "115457.00",
+      "currency": "USD",
+      "close_price": "222.60",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "VOW3",
+      "shares": "317970.00",
+      "currency": "EUR",
+      "close_price": "80.74",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TOST",
+      "shares": "729847.00",
+      "currency": "USD",
+      "close_price": "35.16",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TEF",
+      "shares": "6626386.00",
+      "currency": "EUR",
+      "close_price": "3.87",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "GWO",
+      "shares": "397731.00",
+      "currency": "CAD",
+      "close_price": "64.38",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TPL",
+      "shares": "93875.00",
+      "currency": "USD",
+      "close_price": "272.18",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "VACN",
+      "shares": "39904.00",
+      "currency": "CHF",
+      "close_price": "639.86",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "4307",
+      "shares": "643410.00",
+      "currency": "JPY",
+      "close_price": "39.48",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TSEM",
+      "shares": "184822.00",
+      "currency": "ILS",
+      "close_price": "137.14",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PNFP",
+      "shares": "248966.00",
+      "currency": "USD",
+      "close_price": "101.49",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "2502",
+      "shares": "2234886.00",
+      "currency": "JPY",
+      "close_price": "11.30",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "WY",
+      "shares": "1159689.00",
+      "currency": "USD",
+      "close_price": "21.63",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "REG",
+      "shares": "327600.00",
+      "currency": "USD",
+      "close_price": "76.28",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FLUT",
+      "shares": "300833.00",
+      "currency": "USD",
+      "close_price": "82.97",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CDE",
+      "shares": "1703421.00",
+      "currency": "USD",
+      "close_price": "14.63",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "KER",
+      "shares": "116241.00",
+      "currency": "EUR",
+      "close_price": "214.01",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "IOT",
+      "shares": "605566.00",
+      "currency": "USD",
+      "close_price": "41.09",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "7013",
+      "shares": "1608300.00",
+      "currency": "JPY",
+      "close_price": "15.38",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LYB",
+      "shares": "400785.00",
+      "currency": "USD",
+      "close_price": "61.63",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CPU",
+      "shares": "835900.00",
+      "currency": "AUD",
+      "close_price": "29.53",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MDLN",
+      "shares": "618556.00",
+      "currency": "USD",
+      "close_price": "39.76",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "KOG",
+      "shares": "672219.00",
+      "currency": "NOK",
+      "close_price": "36.50",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LOGN",
+      "shares": "248162.00",
+      "currency": "CHF",
+      "close_price": "98.58",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "8830",
+      "shares": "1082126.00",
+      "currency": "JPY",
+      "close_price": "22.59",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "6",
+      "shares": "2967865.00",
+      "currency": "HKD",
+      "close_price": "8.23",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "8601",
+      "shares": "2171675.00",
+      "currency": "JPY",
+      "close_price": "11.22",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ANTO",
+      "shares": "576495.00",
+      "currency": "GBP",
+      "close_price": "42.11",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EMA",
+      "shares": "471889.00",
+      "currency": "CAD",
+      "close_price": "51.33",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SUI",
+      "shares": "197715.00",
+      "currency": "USD",
+      "close_price": "122.08",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "823",
+      "shares": "4602639.00",
+      "currency": "HKD",
+      "close_price": "5.24",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "WCP",
+      "shares": "2015617.00",
+      "currency": "CAD",
+      "close_price": "11.93",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AGS",
+      "shares": "272674.00",
+      "currency": "EUR",
+      "close_price": "88.13",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SGE",
+      "shares": "1480143.00",
+      "currency": "GBP",
+      "close_price": "16.22",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SPSN",
+      "shares": "146826.00",
+      "currency": "CHF",
+      "close_price": "163.28",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FDXF",
+      "shares": "192119.00",
+      "currency": "USD",
+      "close_price": "124.41",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "IAG",
+      "shares": "3877442.00",
+      "currency": "AUD",
+      "close_price": "6.16",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SGRO",
+      "shares": "1931015.00",
+      "currency": "GBP",
+      "close_price": "12.35",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SCG",
+      "shares": "9473393.00",
+      "currency": "AUD",
+      "close_price": "2.51",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BG",
+      "shares": "240356.00",
+      "currency": "USD",
+      "close_price": "98.54",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "HEI",
+      "shares": "72099.00",
+      "currency": "USD",
+      "close_price": "327.33",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "KRX",
+      "shares": "224308.00",
+      "currency": "EUR",
+      "close_price": "104.86",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "UPM",
+      "shares": "921724.00",
+      "currency": "EUR",
+      "close_price": "25.46",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "S32",
+      "shares": "7399621.00",
+      "currency": "AUD",
+      "close_price": "3.17",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SMCI",
+      "shares": "865118.00",
+      "currency": "USD",
+      "close_price": "27.08",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "VNA",
+      "shares": "1222925.00",
+      "currency": "EUR",
+      "close_price": "19.09",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "STMN",
+      "shares": "179214.00",
+      "currency": "CHF",
+      "close_price": "129.95",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TRN",
+      "shares": "2102285.00",
+      "currency": "EUR",
+      "close_price": "11.07",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MAERSK B",
+      "shares": "7418.00",
+      "currency": "DKK",
+      "close_price": "3134.69",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "S63",
+      "shares": "3017100.00",
+      "currency": "SGD",
+      "close_price": "7.67",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CCH",
+      "shares": "423399.00",
+      "currency": "GBP",
+      "close_price": "54.61",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "RO",
+      "shares": "47194.00",
+      "currency": "CHF",
+      "close_price": "489.84",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "1113",
+      "shares": "3681540.00",
+      "currency": "HKD",
+      "close_price": "6.27",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NTGY",
+      "shares": "690365.00",
+      "currency": "EUR",
+      "close_price": "33.39",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SCHP",
+      "shares": "60155.00",
+      "currency": "CHF",
+      "close_price": "383.28",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ELE",
+      "shares": "457317.00",
+      "currency": "EUR",
+      "close_price": "50.35",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SY1",
+      "shares": "208541.00",
+      "currency": "EUR",
+      "close_price": "109.98",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CHKP",
+      "shares": "154001.00",
+      "currency": "USD",
+      "close_price": "148.18",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BG",
+      "shares": "124269.00",
+      "currency": "EUR",
+      "close_price": "182.55",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "URW",
+      "shares": "215008.00",
+      "currency": "EUR",
+      "close_price": "105.33",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "8697",
+      "shares": "1635600.00",
+      "currency": "JPY",
+      "close_price": "13.85",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CRS",
+      "shares": "81177.00",
+      "currency": "USD",
+      "close_price": "278.88",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "METSO",
+      "shares": "1177876.00",
+      "currency": "EUR",
+      "close_price": "19.19",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "WRT1V",
+      "shares": "805428.00",
+      "currency": "EUR",
+      "close_price": "28.00",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "APA",
+      "shares": "2895014.00",
+      "currency": "AUD",
+      "close_price": "7.77",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "9531",
+      "shares": "532546.00",
+      "currency": "JPY",
+      "close_price": "42.24",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ADM",
+      "shares": "410390.00",
+      "currency": "GBP",
+      "close_price": "54.66",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "WPC",
+      "shares": "342966.00",
+      "currency": "USD",
+      "close_price": "65.29",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BNZL",
+      "shares": "566891.00",
+      "currency": "GBP",
+      "close_price": "39.41",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TW",
+      "shares": "175214.00",
+      "currency": "USD",
+      "close_price": "127.56",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "RCI.B",
+      "shares": "653506.00",
+      "currency": "CAD",
+      "close_price": "34.11",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "6988",
+      "shares": "984755.00",
+      "currency": "JPY",
+      "close_price": "22.63",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "4684",
+      "shares": "557220.00",
+      "currency": "JPY",
+      "close_price": "39.84",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "RKT",
+      "shares": "1494364.00",
+      "currency": "USD",
+      "close_price": "14.82",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "3407",
+      "shares": "2177256.00",
+      "currency": "JPY",
+      "close_price": "10.17",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "GFL",
+      "shares": "477983.00",
+      "currency": "CAD",
+      "close_price": "46.14",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ASRNL",
+      "shares": "250434.00",
+      "currency": "EUR",
+      "close_price": "87.97",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AGN",
+      "shares": "2569434.00",
+      "currency": "EUR",
+      "close_price": "8.57",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TLS",
+      "shares": "6268590.00",
+      "currency": "AUD",
+      "close_price": "3.50",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PNDORA",
+      "shares": "161915.00",
+      "currency": "DKK",
+      "close_price": "134.31",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "UNI",
+      "shares": "745132.00",
+      "currency": "EUR",
+      "close_price": "29.02",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "5713",
+      "shares": "416582.00",
+      "currency": "JPY",
+      "close_price": "51.84",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SRG",
+      "shares": "3059008.00",
+      "currency": "EUR",
+      "close_price": "7.05",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "COO",
+      "shares": "338674.00",
+      "currency": "USD",
+      "close_price": "63.51",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CARL B",
+      "shares": "138837.00",
+      "currency": "DKK",
+      "close_price": "154.93",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DECK",
+      "shares": "245135.00",
+      "currency": "USD",
+      "close_price": "87.74",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NESTE",
+      "shares": "692127.00",
+      "currency": "EUR",
+      "close_price": "30.95",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "G1A",
+      "shares": "273576.00",
+      "currency": "EUR",
+      "close_price": "78.25",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "1928",
+      "shares": "913413.00",
+      "currency": "JPY",
+      "close_price": "23.40",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AGI",
+      "shares": "686088.00",
+      "currency": "CAD",
+      "close_price": "31.10",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DAL",
+      "shares": "249456.00",
+      "currency": "USD",
+      "close_price": "85.36",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DPLM",
+      "shares": "225026.00",
+      "currency": "GBP",
+      "close_price": "94.34",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ENX",
+      "shares": "107959.00",
+      "currency": "EUR",
+      "close_price": "195.69",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "RIVN",
+      "shares": "1573010.00",
+      "currency": "USD",
+      "close_price": "13.29",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ECHO",
+      "shares": "231162.00",
+      "currency": "USD",
+      "close_price": "89.92",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LVS",
+      "shares": "507264.00",
+      "currency": "USD",
+      "close_price": "40.92",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "1812",
+      "shares": "677367.00",
+      "currency": "JPY",
+      "close_price": "30.59",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SMIN",
+      "shares": "584426.00",
+      "currency": "GBP",
+      "close_price": "35.24",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SVT",
+      "shares": "458196.00",
+      "currency": "GBP",
+      "close_price": "44.88",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "4004",
+      "shares": "286200.00",
+      "currency": "JPY",
+      "close_price": "71.80",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EVO",
+      "shares": "233678.00",
+      "currency": "SEK",
+      "close_price": "87.65",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EQX",
+      "shares": "1807578.00",
+      "currency": "CAD",
+      "close_price": "11.30",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ERF",
+      "shares": "203656.00",
+      "currency": "EUR",
+      "close_price": "99.97",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "7733",
+      "shares": "1738000.00",
+      "currency": "JPY",
+      "close_price": "11.69",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "H",
+      "shares": "493216.00",
+      "currency": "CAD",
+      "close_price": "41.16",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MKC",
+      "shares": "405600.00",
+      "currency": "USD",
+      "close_price": "50.06",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NLY",
+      "shares": "1066698.00",
+      "currency": "USD",
+      "close_price": "18.85",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ROL",
+      "shares": "518849.00",
+      "currency": "USD",
+      "close_price": "38.76",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SN.",
+      "shares": "1256253.00",
+      "currency": "GBP",
+      "close_price": "15.94",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PSON",
+      "shares": "1129926.00",
+      "currency": "GBP",
+      "close_price": "17.69",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LUN",
+      "shares": "997171.00",
+      "currency": "CAD",
+      "close_price": "20.04",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CRWV",
+      "shares": "456386.00",
+      "currency": "USD",
+      "close_price": "43.66",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TEN",
+      "shares": "684501.00",
+      "currency": "EUR",
+      "close_price": "28.97",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FORTUM",
+      "shares": "754647.00",
+      "currency": "EUR",
+      "close_price": "26.14",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "1802",
+      "shares": "992672.00",
+      "currency": "JPY",
+      "close_price": "19.73",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "8473",
+      "shares": "1074000.00",
+      "currency": "JPY",
+      "close_price": "18.22",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "RYA",
+      "shares": "697808.00",
+      "currency": "EUR",
+      "close_price": "28.05",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MKS",
+      "shares": "3259048.00",
+      "currency": "GBP",
+      "close_price": "5.99",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TELIA",
+      "shares": "3828355.00",
+      "currency": "SEK",
+      "close_price": "5.08",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "IAG",
+      "shares": "127771.00",
+      "currency": "CAD",
+      "close_price": "151.65",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "QIA",
+      "shares": "380147.00",
+      "currency": "EUR",
+      "close_price": "50.82",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BVI",
+      "shares": "568478.00",
+      "currency": "EUR",
+      "close_price": "33.93",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CHTR",
+      "shares": "153153.00",
+      "currency": "USD",
+      "close_price": "125.86",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LII",
+      "shares": "55177.00",
+      "currency": "USD",
+      "close_price": "348.79",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "KGF",
+      "shares": "3737611.00",
+      "currency": "GBP",
+      "close_price": "5.11",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ORSTED",
+      "shares": "863057.00",
+      "currency": "DKK",
+      "close_price": "22.08",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "HM B",
+      "shares": "1020757.00",
+      "currency": "SEK",
+      "close_price": "18.59",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BESI",
+      "shares": "119897.00",
+      "currency": "EUR",
+      "close_price": "158.19",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AKZA",
+      "shares": "266915.00",
+      "currency": "EUR",
+      "close_price": "70.26",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "X",
+      "shares": "431170.00",
+      "currency": "CAD",
+      "close_price": "43.51",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "6383",
+      "shares": "608400.00",
+      "currency": "JPY",
+      "close_price": "30.72",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "4911",
+      "shares": "712445.00",
+      "currency": "JPY",
+      "close_price": "26.06",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "GALP",
+      "shares": "838017.00",
+      "currency": "EUR",
+      "close_price": "22.12",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DSCT",
+      "shares": "1874370.00",
+      "currency": "ILS",
+      "close_price": "9.87",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MOWI",
+      "shares": "779384.00",
+      "currency": "NOK",
+      "close_price": "23.60",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "RTO",
+      "shares": "3790001.00",
+      "currency": "GBP",
+      "close_price": "4.84",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "1801",
+      "shares": "253698.00",
+      "currency": "JPY",
+      "close_price": "71.67",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MONC",
+      "shares": "350777.00",
+      "currency": "EUR",
+      "close_price": "51.57",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AKRBP",
+      "shares": "525643.00",
+      "currency": "NOK",
+      "close_price": "34.34",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CNA",
+      "shares": "8812172.00",
+      "currency": "GBP",
+      "close_price": "2.04",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BKT",
+      "shares": "1098372.00",
+      "currency": "EUR",
+      "close_price": "16.37",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "OMV",
+      "shares": "218749.00",
+      "currency": "EUR",
+      "close_price": "81.68",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LISN",
+      "shares": "159.00",
+      "currency": "CHF",
+      "close_price": "111840.89",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TEL2 B",
+      "shares": "1073487.00",
+      "currency": "SEK",
+      "close_price": "16.55",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FNF",
+      "shares": "412209.00",
+      "currency": "USD",
+      "close_price": "42.89",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FN",
+      "shares": "59886.00",
+      "currency": "USD",
+      "close_price": "292.97",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MNG",
+      "shares": "3989294.00",
+      "currency": "GBP",
+      "close_price": "4.38",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "6504",
+      "shares": "245000.00",
+      "currency": "JPY",
+      "close_price": "71.17",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "4523",
+      "shares": "521640.00",
+      "currency": "JPY",
+      "close_price": "33.45",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CRCL",
+      "shares": "248612.00",
+      "currency": "USD",
+      "close_price": "69.48",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ITRK",
+      "shares": "214436.00",
+      "currency": "GBP",
+      "close_price": "80.39",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "7272",
+      "shares": "1471200.00",
+      "currency": "JPY",
+      "close_price": "11.66",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "HEIO",
+      "shares": "190869.00",
+      "currency": "EUR",
+      "close_price": "89.65",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "9697",
+      "shares": "620000.00",
+      "currency": "JPY",
+      "close_price": "27.60",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EDV",
+      "shares": "316089.00",
+      "currency": "GBP",
+      "close_price": "54.08",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BN4",
+      "shares": "2197220.00",
+      "currency": "SGD",
+      "close_price": "7.78",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TLC",
+      "shares": "4431459.00",
+      "currency": "AUD",
+      "close_price": "3.83",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ALA",
+      "shares": "440683.00",
+      "currency": "CAD",
+      "close_price": "38.47",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "3402",
+      "shares": "2183753.00",
+      "currency": "JPY",
+      "close_price": "7.73",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ATRL",
+      "shares": "271202.00",
+      "currency": "CAD",
+      "close_price": "62.14",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "7532",
+      "shares": "3312900.00",
+      "currency": "JPY",
+      "close_price": "5.06",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PHOE",
+      "shares": "344074.00",
+      "currency": "ILS",
+      "close_price": "48.63",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TIH",
+      "shares": "123699.00",
+      "currency": "CAD",
+      "close_price": "135.08",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NHY",
+      "shares": "2252495.00",
+      "currency": "NOK",
+      "close_price": "7.39",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BCP",
+      "shares": "13584998.00",
+      "currency": "EUR",
+      "close_price": "1.22",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "9502",
+      "shares": "1047425.00",
+      "currency": "JPY",
+      "close_price": "15.84",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "6361",
+      "shares": "756400.00",
+      "currency": "JPY",
+      "close_price": "21.88",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ORNBV",
+      "shares": "145429.00",
+      "currency": "EUR",
+      "close_price": "113.73",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EN",
+      "shares": "341636.00",
+      "currency": "EUR",
+      "close_price": "48.38",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MICC",
+      "shares": "811924.00",
+      "currency": "EUR",
+      "close_price": "20.15",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "WSO",
+      "shares": "52330.00",
+      "currency": "USD",
+      "close_price": "311.14",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "S68",
+      "shares": "990126.00",
+      "currency": "SGD",
+      "close_price": "16.45",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TREL B",
+      "shares": "344612.00",
+      "currency": "SEK",
+      "close_price": "47.18",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MTZ",
+      "shares": "102185.00",
+      "currency": "USD",
+      "close_price": "158.94",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "7186",
+      "shares": "1509500.00",
+      "currency": "JPY",
+      "close_price": "10.74",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SKF B",
+      "shares": "576919.00",
+      "currency": "SEK",
+      "close_price": "27.93",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FME",
+      "shares": "338939.00",
+      "currency": "EUR",
+      "close_price": "47.51",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EMSN",
+      "shares": "15230.00",
+      "currency": "CHF",
+      "close_price": "1055.18",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "RDDT",
+      "shares": "170305.00",
+      "currency": "USD",
+      "close_price": "93.81",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "J36",
+      "shares": "256263.00",
+      "currency": "USD",
+      "close_price": "61.94",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "7012",
+      "shares": "1195800.00",
+      "currency": "JPY",
+      "close_price": "13.12",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CICT",
+      "shares": "8450990.00",
+      "currency": "SGD",
+      "close_price": "1.86",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TEL",
+      "shares": "1065792.00",
+      "currency": "NOK",
+      "close_price": "14.68",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "2801",
+      "shares": "1267400.00",
+      "currency": "JPY",
+      "close_price": "12.31",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NWSA",
+      "shares": "587996.00",
+      "currency": "USD",
+      "close_price": "26.48",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "6594",
+      "shares": "1467600.00",
+      "currency": "JPY",
+      "close_price": "10.60",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "COLO B",
+      "shares": "196102.00",
+      "currency": "DKK",
+      "close_price": "78.92",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CG",
+      "shares": "383821.00",
+      "currency": "USD",
+      "close_price": "39.96",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "9843",
+      "shares": "691420.00",
+      "currency": "JPY",
+      "close_price": "22.19",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LISP",
+      "shares": "1411.00",
+      "currency": "CHF",
+      "close_price": "10852.62",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "5016",
+      "shares": "910500.00",
+      "currency": "JPY",
+      "close_price": "16.71",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "7270",
+      "shares": "828800.00",
+      "currency": "JPY",
+      "close_price": "18.26",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BNR",
+      "shares": "210747.00",
+      "currency": "EUR",
+      "close_price": "71.65",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ENLT",
+      "shares": "232630.00",
+      "currency": "ILS",
+      "close_price": "64.90",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AC",
+      "shares": "271031.00",
+      "currency": "EUR",
+      "close_price": "55.55",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BEI",
+      "shares": "156337.00",
+      "currency": "EUR",
+      "close_price": "96.40",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "GRAB",
+      "shares": "4312123.00",
+      "currency": "USD",
+      "close_price": "3.48",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CCL.B",
+      "shares": "209223.00",
+      "currency": "CAD",
+      "close_price": "71.56",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TLX",
+      "shares": "98781.00",
+      "currency": "EUR",
+      "close_price": "151.23",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BS6",
+      "shares": "4086000.00",
+      "currency": "SGD",
+      "close_price": "3.64",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "66",
+      "shares": "3415500.00",
+      "currency": "HKD",
+      "close_price": "4.35",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "UAL",
+      "shares": "134287.00",
+      "currency": "USD",
+      "close_price": "110.49",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SOBI",
+      "shares": "293684.00",
+      "currency": "SEK",
+      "close_price": "50.37",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SIG",
+      "shares": "7528197.00",
+      "currency": "AUD",
+      "close_price": "1.96",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "3",
+      "shares": "15712815.00",
+      "currency": "HKD",
+      "close_price": "0.94",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "5801",
+      "shares": "1084100.00",
+      "currency": "JPY",
+      "close_price": "13.58",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "4188",
+      "shares": "2221770.00",
+      "currency": "JPY",
+      "close_price": "6.63",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "8113",
+      "shares": "2093400.00",
+      "currency": "JPY",
+      "close_price": "6.97",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "YAR",
+      "shares": "336334.00",
+      "currency": "NOK",
+      "close_price": "43.11",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EXO",
+      "shares": "175477.00",
+      "currency": "EUR",
+      "close_price": "82.18",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BEAN",
+      "shares": "16016.00",
+      "currency": "CHF",
+      "close_price": "899.88",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MPL",
+      "shares": "3994258.00",
+      "currency": "AUD",
+      "close_price": "3.58",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "RBI",
+      "shares": "215322.00",
+      "currency": "EUR",
+      "close_price": "66.18",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "H",
+      "shares": "77188.00",
+      "currency": "USD",
+      "close_price": "183.78",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SKA B",
+      "shares": "491940.00",
+      "currency": "SEK",
+      "close_price": "28.83",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "STLAM",
+      "shares": "3161351.00",
+      "currency": "EUR",
+      "close_price": "4.46",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "RXL",
+      "shares": "364602.00",
+      "currency": "EUR",
+      "close_price": "38.61",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "HEN",
+      "shares": "165676.00",
+      "currency": "EUR",
+      "close_price": "84.82",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ABF",
+      "shares": "514241.00",
+      "currency": "GBP",
+      "close_price": "27.33",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FOX",
+      "shares": "234094.00",
+      "currency": "USD",
+      "close_price": "59.99",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CTVA",
+      "shares": "1163453.00",
+      "currency": "USD",
+      "close_price": "12.04",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MZTF",
+      "shares": "207591.00",
+      "currency": "ILS",
+      "close_price": "67.24",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "4689",
+      "shares": "4040400.00",
+      "currency": "JPY",
+      "close_price": "3.45",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LI",
+      "shares": "338633.00",
+      "currency": "EUR",
+      "close_price": "41.07",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DKS",
+      "shares": "98290.00",
+      "currency": "USD",
+      "close_price": "141.07",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CRBG",
+      "shares": "401652.00",
+      "currency": "USD",
+      "close_price": "34.24",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "5019",
+      "shares": "1591170.00",
+      "currency": "JPY",
+      "close_price": "8.63",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TRYG",
+      "shares": "551384.00",
+      "currency": "DKK",
+      "close_price": "24.92",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FGR",
+      "shares": "115131.00",
+      "currency": "EUR",
+      "close_price": "119.01",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "9021",
+      "shares": "658078.00",
+      "currency": "JPY",
+      "close_price": "20.80",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ADDT B",
+      "shares": "418502.00",
+      "currency": "SEK",
+      "close_price": "32.67",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "7309",
+      "shares": "98395.00",
+      "currency": "JPY",
+      "close_price": "139.01",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NVMI",
+      "shares": "47715.00",
+      "currency": "ILS",
+      "close_price": "284.37",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "KEY",
+      "shares": "371789.00",
+      "currency": "CAD",
+      "close_price": "36.52",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "4612",
+      "shares": "1493600.00",
+      "currency": "JPY",
+      "close_price": "9.08",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CA",
+      "shares": "876775.00",
+      "currency": "EUR",
+      "close_price": "15.31",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "8331",
+      "shares": "825400.00",
+      "currency": "JPY",
+      "close_price": "16.27",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LYC",
+      "shares": "1482915.00",
+      "currency": "AUD",
+      "close_price": "9.01",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PME",
+      "shares": "91799.00",
+      "currency": "AUD",
+      "close_price": "144.92",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MRO",
+      "shares": "2121529.00",
+      "currency": "GBP",
+      "close_price": "6.27",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LIFCO B",
+      "shares": "453213.00",
+      "currency": "SEK",
+      "close_price": "29.37",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "3659",
+      "shares": "712942.00",
+      "currency": "JPY",
+      "close_price": "18.64",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "STN",
+      "shares": "173906.00",
+      "currency": "CAD",
+      "close_price": "75.79",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "H78",
+      "shares": "1503951.00",
+      "currency": "USD",
+      "close_price": "8.67",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "GET",
+      "shares": "569427.00",
+      "currency": "EUR",
+      "close_price": "22.90",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "C6L",
+      "shares": "2347955.00",
+      "currency": "SGD",
+      "close_price": "5.50",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "7911",
+      "shares": "1001020.00",
+      "currency": "JPY",
+      "close_price": "12.88",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "REA",
+      "shares": "102429.00",
+      "currency": "AUD",
+      "close_price": "125.28",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "GBLB",
+      "shares": "144385.00",
+      "currency": "EUR",
+      "close_price": "88.81",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SGH",
+      "shares": "425612.00",
+      "currency": "AUD",
+      "close_price": "29.56",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "8593",
+      "shares": "1465300.00",
+      "currency": "JPY",
+      "close_price": "8.56",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MAERSK A",
+      "shares": "4043.00",
+      "currency": "DKK",
+      "close_price": "3097.14",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "XRO",
+      "shares": "252543.00",
+      "currency": "AUD",
+      "close_price": "49.32",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SYENS",
+      "shares": "139448.00",
+      "currency": "EUR",
+      "close_price": "88.69",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "KESKOB",
+      "shares": "413657.00",
+      "currency": "EUR",
+      "close_price": "29.84",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TFII",
+      "shares": "127150.00",
+      "currency": "CAD",
+      "close_price": "96.95",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CON",
+      "shares": "155046.00",
+      "currency": "EUR",
+      "close_price": "79.46",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "6479",
+      "shares": "669250.00",
+      "currency": "JPY",
+      "close_price": "18.41",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "9107",
+      "shares": "610000.00",
+      "currency": "JPY",
+      "close_price": "20.17",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TIGO",
+      "shares": "155267.00",
+      "currency": "USD",
+      "close_price": "79.12",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SRT3",
+      "shares": "37939.00",
+      "currency": "EUR",
+      "close_price": "322.78",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CTC.A",
+      "shares": "83470.00",
+      "currency": "CAD",
+      "close_price": "146.52",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ASX",
+      "shares": "261665.00",
+      "currency": "AUD",
+      "close_price": "46.68",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SOL",
+      "shares": "368255.00",
+      "currency": "AUD",
+      "close_price": "33.04",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LUG",
+      "shares": "177116.00",
+      "currency": "CAD",
+      "close_price": "68.51",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FRES",
+      "shares": "361230.00",
+      "currency": "GBP",
+      "close_price": "33.62",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ELI",
+      "shares": "80230.00",
+      "currency": "EUR",
+      "close_price": "149.99",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "INDU A",
+      "shares": "219971.00",
+      "currency": "SEK",
+      "close_price": "54.59",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SCA B",
+      "shares": "945959.00",
+      "currency": "SEK",
+      "close_price": "12.67",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SBRY",
+      "shares": "2453261.00",
+      "currency": "GBP",
+      "close_price": "4.84",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "KBX",
+      "shares": "109637.00",
+      "currency": "EUR",
+      "close_price": "107.55",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ZAL",
+      "shares": "367628.00",
+      "currency": "EUR",
+      "close_price": "31.97",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "WTC",
+      "shares": "376744.00",
+      "currency": "AUD",
+      "close_price": "31.21",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "9042",
+      "shares": "377300.00",
+      "currency": "JPY",
+      "close_price": "31.16",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "IAG",
+      "shares": "2033415.00",
+      "currency": "EUR",
+      "close_price": "5.76",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "INDU C",
+      "shares": "213549.00",
+      "currency": "SEK",
+      "close_price": "54.31",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "INDT",
+      "shares": "416038.00",
+      "currency": "SEK",
+      "close_price": "27.80",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "7912",
+      "shares": "646986.00",
+      "currency": "JPY",
+      "close_price": "17.75",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BCE",
+      "shares": "519400.00",
+      "currency": "CAD",
+      "close_price": "22.03",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LHA",
+      "shares": "1227019.00",
+      "currency": "EUR",
+      "close_price": "9.19",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ASTS",
+      "shares": "370429.00",
+      "currency": "USD",
+      "close_price": "30.20",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EPI B",
+      "shares": "534120.00",
+      "currency": "SEK",
+      "close_price": "20.96",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "8136",
+      "shares": "1355400.00",
+      "currency": "JPY",
+      "close_price": "8.23",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "7202",
+      "shares": "795000.00",
+      "currency": "JPY",
+      "close_price": "14.05",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ORK",
+      "shares": "1011952.00",
+      "currency": "NOK",
+      "close_price": "10.96",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "VER",
+      "shares": "130785.00",
+      "currency": "EUR",
+      "close_price": "84.60",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "27",
+      "shares": "2469368.00",
+      "currency": "HKD",
+      "close_price": "4.47",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "4151",
+      "shares": "662412.00",
+      "currency": "JPY",
+      "close_price": "16.60",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SECU B",
+      "shares": "675488.00",
+      "currency": "SEK",
+      "close_price": "16.29",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SDLF",
+      "shares": "859396.00",
+      "currency": "GBP",
+      "close_price": "12.73",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "GIL",
+      "shares": "310859.00",
+      "currency": "CAD",
+      "close_price": "35.04",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "1803",
+      "shares": "822300.00",
+      "currency": "JPY",
+      "close_price": "13.21",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "IFT",
+      "shares": "1460456.00",
+      "currency": "NZD",
+      "close_price": "7.44",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SCHN",
+      "shares": "29326.00",
+      "currency": "CHF",
+      "close_price": "368.92",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AM",
+      "shares": "31775.00",
+      "currency": "EUR",
+      "close_price": "339.73",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CAE",
+      "shares": "402467.00",
+      "currency": "CAD",
+      "close_price": "26.80",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SW",
+      "shares": "158293.00",
+      "currency": "EUR",
+      "close_price": "67.92",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "WISE",
+      "shares": "964917.00",
+      "currency": "GBP",
+      "close_price": "11.12",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EVK",
+      "shares": "440535.00",
+      "currency": "EUR",
+      "close_price": "24.16",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "6823",
+      "shares": "6761223.00",
+      "currency": "HKD",
+      "close_price": "1.56",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "7259",
+      "shares": "720394.00",
+      "currency": "JPY",
+      "close_price": "14.58",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "12",
+      "shares": "2745830.00",
+      "currency": "HKD",
+      "close_price": "3.80",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "HARL",
+      "shares": "197998.00",
+      "currency": "ILS",
+      "close_price": "52.50",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BARN",
+      "shares": "6468.00",
+      "currency": "CHF",
+      "close_price": "1605.79",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PLS",
+      "shares": "5251514.00",
+      "currency": "AUD",
+      "close_price": "1.97",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "IG",
+      "shares": "1001844.00",
+      "currency": "EUR",
+      "close_price": "10.30",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CLAR",
+      "shares": "5672083.00",
+      "currency": "SGD",
+      "close_price": "1.81",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "JMT",
+      "shares": "470463.00",
+      "currency": "EUR",
+      "close_price": "21.81",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DIM",
+      "shares": "40735.00",
+      "currency": "EUR",
+      "close_price": "251.71",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "4755",
+      "shares": "2423812.00",
+      "currency": "JPY",
+      "close_price": "4.21",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "8951",
+      "shares": "12830.00",
+      "currency": "JPY",
+      "close_price": "786.09",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "GJF",
+      "shares": "334934.00",
+      "currency": "NOK",
+      "close_price": "30.07",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DHER",
+      "shares": "241734.00",
+      "currency": "EUR",
+      "close_price": "41.51",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "RNO",
+      "shares": "312051.00",
+      "currency": "EUR",
+      "close_price": "32.10",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SPX",
+      "shares": "99927.00",
+      "currency": "GBP",
+      "close_price": "99.05",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "HOT",
+      "shares": "25306.00",
+      "currency": "EUR",
+      "close_price": "388.90",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "288",
+      "shares": "11682000.00",
+      "currency": "HKD",
+      "close_price": "0.84",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "1878",
+      "shares": "432870.00",
+      "currency": "JPY",
+      "close_price": "22.54",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "9602",
+      "shares": "831700.00",
+      "currency": "JPY",
+      "close_price": "11.74",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SAP",
+      "shares": "328465.00",
+      "currency": "CAD",
+      "close_price": "29.74",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "IREN",
+      "shares": "539589.00",
+      "currency": "USD",
+      "close_price": "18.03",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NIBE B",
+      "shares": "2058644.00",
+      "currency": "SEK",
+      "close_price": "4.70",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LAND",
+      "shares": "1044452.00",
+      "currency": "GBP",
+      "close_price": "9.27",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "HAG",
+      "shares": "103838.00",
+      "currency": "EUR",
+      "close_price": "92.71",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "FUTU",
+      "shares": "102396.00",
+      "currency": "USD",
+      "close_price": "94.04",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "NEM",
+      "shares": "125998.00",
+      "currency": "EUR",
+      "close_price": "76.34",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BMED",
+      "shares": "366291.00",
+      "currency": "EUR",
+      "close_price": "26.18",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DEMANT",
+      "shares": "168893.00",
+      "currency": "DKK",
+      "close_price": "56.63",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ABVX",
+      "shares": "109616.00",
+      "currency": "EUR",
+      "close_price": "87.18",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AVOL",
+      "shares": "158793.00",
+      "currency": "CHF",
+      "close_price": "59.76",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "IPN",
+      "shares": "52996.00",
+      "currency": "EUR",
+      "close_price": "178.96",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AMUN",
+      "shares": "89392.00",
+      "currency": "EUR",
+      "close_price": "105.81",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "5706",
+      "shares": "892400.00",
+      "currency": "JPY",
+      "close_price": "10.61",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AIA",
+      "shares": "1919035.00",
+      "currency": "NZD",
+      "close_price": "4.90",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "P911",
+      "shares": "173466.00",
+      "currency": "EUR",
+      "close_price": "53.04",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "UHR",
+      "shares": "40734.00",
+      "currency": "CHF",
+      "close_price": "224.73",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "7735",
+      "shares": "185800.00",
+      "currency": "JPY",
+      "close_price": "49.17",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ANA",
+      "shares": "37723.00",
+      "currency": "EUR",
+      "close_price": "240.71",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "3003",
+      "shares": "690434.00",
+      "currency": "JPY",
+      "close_price": "12.80",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "6586",
+      "shares": "247326.00",
+      "currency": "JPY",
+      "close_price": "35.51",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "TUB",
+      "shares": "32663.00",
+      "currency": "EUR",
+      "close_price": "269.22",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "VCX",
+      "shares": "5106532.00",
+      "currency": "AUD",
+      "close_price": "1.72",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CU",
+      "shares": "228673.00",
+      "currency": "CAD",
+      "close_price": "37.64",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BEIJ B",
+      "shares": "529033.00",
+      "currency": "SEK",
+      "close_price": "16.29",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EFN",
+      "shares": "613730.00",
+      "currency": "CAD",
+      "close_price": "13.91",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "VAR",
+      "shares": "1565230.00",
+      "currency": "NOK",
+      "close_price": "5.45",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "IGM",
+      "shares": "149027.00",
+      "currency": "CAD",
+      "close_price": "56.82",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "IDR",
+      "shares": "130567.00",
+      "currency": "EUR",
+      "close_price": "64.58",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "STERV",
+      "shares": "767703.00",
+      "currency": "EUR",
+      "close_price": "10.95",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ELISA",
+      "shares": "214562.00",
+      "currency": "EUR",
+      "close_price": "39.00",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "PAH3",
+      "shares": "280615.00",
+      "currency": "EUR",
+      "close_price": "29.75",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EMP.A",
+      "shares": "232231.00",
+      "currency": "CAD",
+      "close_price": "35.85",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "7201",
+      "shares": "4441326.00",
+      "currency": "JPY",
+      "close_price": "1.85",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "1997",
+      "shares": "1944590.00",
+      "currency": "HKD",
+      "close_price": "4.17",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "5201",
+      "shares": "256412.00",
+      "currency": "JPY",
+      "close_price": "31.36",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "7550",
+      "shares": "94600.00",
+      "currency": "JPY",
+      "close_price": "82.60",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "9CI",
+      "shares": "4062780.00",
+      "currency": "SGD",
+      "close_price": "1.92",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "83",
+      "shares": "5826703.00",
+      "currency": "HKD",
+      "close_price": "1.34",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "4091",
+      "shares": "204400.00",
+      "currency": "JPY",
+      "close_price": "38.00",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "DIE",
+      "shares": "37894.00",
+      "currency": "EUR",
+      "close_price": "204.67",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "QAN",
+      "shares": "1176777.00",
+      "currency": "AUD",
+      "close_price": "6.58",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LUND B",
+      "shares": "125280.00",
+      "currency": "SEK",
+      "close_price": "61.79",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "OPCE",
+      "shares": "285821.00",
+      "currency": "ILS",
+      "close_price": "26.77",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "1038",
+      "shares": "852500.00",
+      "currency": "HKD",
+      "close_price": "8.93",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SOF",
+      "shares": "24512.00",
+      "currency": "EUR",
+      "close_price": "306.50",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "6525",
+      "shares": "217100.00",
+      "currency": "JPY",
+      "close_price": "34.21",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MAP",
+      "shares": "1514067.00",
+      "currency": "EUR",
+      "close_price": "4.72",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "EDPR",
+      "shares": "461031.00",
+      "currency": "EUR",
+      "close_price": "15.37",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "F34",
+      "shares": "2974997.00",
+      "currency": "SGD",
+      "close_price": "2.36",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "7181",
+      "shares": "611300.00",
+      "currency": "JPY",
+      "close_price": "11.37",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BCVN",
+      "shares": "40609.00",
+      "currency": "CHF",
+      "close_price": "170.52",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "LOTB",
+      "shares": "415.00",
+      "currency": "EUR",
+      "close_price": "15807.61",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CPR",
+      "shares": "863921.00",
+      "currency": "EUR",
+      "close_price": "7.58",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "9435",
+      "shares": "26800.00",
+      "currency": "JPY",
+      "close_price": "242.92",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ALO",
+      "shares": "525684.00",
+      "currency": "EUR",
+      "close_price": "12.30",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BIM",
+      "shares": "59974.00",
+      "currency": "EUR",
+      "close_price": "106.38",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AYV",
+      "shares": "580963.00",
+      "currency": "EUR",
+      "close_price": "10.70",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "T",
+      "shares": "651027.00",
+      "currency": "CAD",
+      "close_price": "9.43",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CEN",
+      "shares": "1273699.00",
+      "currency": "NZD",
+      "close_price": "4.82",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "6841",
+      "shares": "233100.00",
+      "currency": "JPY",
+      "close_price": "25.55",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BZU",
+      "shares": "126147.00",
+      "currency": "EUR",
+      "close_price": "46.77",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AAF",
+      "shares": "1500921.00",
+      "currency": "GBP",
+      "close_price": "3.90",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "1308",
+      "shares": "972000.00",
+      "currency": "HKD",
+      "close_price": "5.99",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "AZRG",
+      "shares": "55208.00",
+      "currency": "ILS",
+      "close_price": "104.07",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "4768",
+      "shares": "237972.00",
+      "currency": "JPY",
+      "close_price": "23.91",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "SALM",
+      "shares": "90361.00",
+      "currency": "NOK",
+      "close_price": "62.64",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "19",
+      "shares": "394401.00",
+      "currency": "HKD",
+      "close_price": "14.31",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "CVC",
+      "shares": "343209.00",
+      "currency": "EUR",
+      "close_price": "16.31",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "IVN",
+      "shares": "943615.00",
+      "currency": "CAD",
+      "close_price": "5.84",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "MEL",
+      "shares": "1678635.00",
+      "currency": "NZD",
+      "close_price": "3.16",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "RAA",
+      "shares": "7273.00",
+      "currency": "EUR",
+      "close_price": "725.83",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ICL",
+      "shares": "1098684.00",
+      "currency": "ILS",
+      "close_price": "4.66",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "ADP",
+      "shares": "37815.00",
+      "currency": "EUR",
+      "close_price": "132.25",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "COV",
+      "shares": "98200.00",
+      "currency": "EUR",
+      "close_price": "50.77",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BEPC",
+      "shares": "157638.00",
+      "currency": "CAD",
+      "close_price": "31.31",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "1928",
+      "shares": "3319070.00",
+      "currency": "HKD",
+      "close_price": "1.44",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "BKW",
+      "shares": "30408.00",
+      "currency": "CHF",
+      "close_price": "153.95",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "GFC",
+      "shares": "63172.00",
+      "currency": "EUR",
+      "close_price": "73.65",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "2587",
+      "shares": "139100.00",
+      "currency": "JPY",
+      "close_price": "32.44",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "9202",
+      "shares": "182387.00",
+      "currency": "JPY",
+      "close_price": "21.00",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "RED",
+      "shares": "146923.00",
+      "currency": "EUR",
+      "close_price": "17.64",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "HOLX",
+      "shares": "419799.00",
+      "currency": "USD",
+      "close_price": "0.01",
+      "fx_rate_to_base": "1.0"
+    },
+    {
+      "symbol": "2299955D",
+      "shares": "20091.00",
+      "currency": "CAD",
+      "close_price": "0.00",
+      "fx_rate_to_base": "1.0"
+    }
+  ]
+}

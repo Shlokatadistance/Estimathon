@@ -21,7 +21,7 @@ def print_stats(predicted: list[float], actual: list[float]) -> None:
 
     mae = sum(abs_diffs) / len(abs_diffs)
     mape = sum(pct_diffs) / len(pct_diffs)
-    rmse = math.sqrt(sum(d ** 2 for d in diffs) / len(diffs))
+    rmse = math.sqrt(sum(d**2 for d in diffs) / len(diffs))
     max_abs = max(abs_diffs)
     max_pct = max(pct_diffs)
     max_abs_ts_idx = abs_diffs.index(max_abs)
@@ -47,7 +47,10 @@ def plot_nav(
     diff = [p - a for p, a in zip(predicted, actual)]
 
     fig, (ax1, ax2) = plt.subplots(
-        2, 1, figsize=(14, 7), sharex=True,
+        2,
+        1,
+        figsize=(14, 7),
+        sharex=True,
         gridspec_kw={"height_ratios": [3, 1], "hspace": 0.08},
     )
     fig.patch.set_facecolor("#0f1117")
@@ -56,21 +59,38 @@ def plot_nav(
         ax.tick_params(colors="#aaaaaa")
         ax.spines[:].set_color("#333344")
 
-    ax1.plot(timestamps, predicted, color="#4fc3f7", linewidth=1.8, label="Kalman predicted")
-    ax1.plot(timestamps, actual, color="#81c784", linewidth=1.8, linestyle="--", label="True NAV")
+    ax1.plot(
+        timestamps, predicted, color="#4fc3f7", linewidth=1.8, label="Kalman predicted"
+    )
+    ax1.plot(
+        timestamps,
+        actual,
+        color="#81c784",
+        linewidth=1.8,
+        linestyle="--",
+        label="True NAV",
+    )
     ax1.fill_between(timestamps, predicted, actual, alpha=0.15, color="#ef9a9a")
     ax1.set_ylabel("Basket NAV", color="#cccccc")
     ax1.legend(facecolor="#1a1d27", labelcolor="#cccccc", framealpha=0.8)
     ax1.set_title(
-        f"Kalman Basket Pricer — {basket_name}" if basket_name else "Kalman Basket Pricer",
-        color="#eeeeee", pad=10,
+        f"Kalman Basket Pricer — {basket_name}"
+        if basket_name
+        else "Kalman Basket Pricer",
+        color="#eeeeee",
+        pad=10,
     )
-    ax1.yaxis.set_major_formatter(plt.FuncFormatter(lambda x, _: f"{x/1e6:.1f}M"))
+    ax1.yaxis.set_major_formatter(plt.FuncFormatter(lambda x, _: f"{x / 1e6:.1f}M"))
 
-    ax2.bar(timestamps, diff, color=["#ef5350" if d < 0 else "#66bb6a" for d in diff], width=0.02)
+    ax2.bar(
+        timestamps,
+        diff,
+        color=["#ef5350" if d < 0 else "#66bb6a" for d in diff],
+        width=0.02,
+    )
     ax2.axhline(0, color="#555566", linewidth=0.8)
     ax2.set_ylabel("Diff", color="#cccccc")
-    ax2.yaxis.set_major_formatter(plt.FuncFormatter(lambda x, _: f"{x/1e6:.1f}M"))
+    ax2.yaxis.set_major_formatter(plt.FuncFormatter(lambda x, _: f"{x / 1e6:.1f}M"))
     ax2.xaxis.set_major_formatter(mdates.DateFormatter("%H:%M"))
     ax2.xaxis.set_major_locator(mdates.HourLocator())
     plt.xticks(rotation=30, color="#aaaaaa")
@@ -91,7 +111,9 @@ def main() -> None:
     parser.add_argument("--basket", default="manual_basket.json")
     parser.add_argument("--basket-prices", required=True)
     parser.add_argument("--constituent-prices", required=True)
-    parser.add_argument("--plot", default=None, help="Path to save the NAV plot (e.g. data/nav.png)")
+    parser.add_argument(
+        "--plot", default=None, help="Path to save the NAV plot (e.g. data/nav.png)"
+    )
     args = parser.parse_args()
 
     basket = load_basket(args.basket)
